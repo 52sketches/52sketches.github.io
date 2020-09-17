@@ -11,9 +11,9 @@ Spend less time frustrated, stuck and ineffectual. Spend more time in creativity
 
 ## Tools
 
-We provide tools to help you free your creativity.
+We provide tools to help you unleash your creativity.
 
-Being an artist or otherwise creative person is a constant challenge. There are forces that conspire to stop, slow down, hold back, and impede your creativity.
+Being an artist or an otherwise creative person is a constant challenge. There are forces that conspire to block, hold back, and impede your creativity.
 
 We give them various names. Writer's block, ennui, The Resistance. We read about them in _The Artist's Way_ by Julia Cameron, _The War of Art_ by Stephen Pressfield, and _On Writing_ by Steven King. But what do we do about them?
 
@@ -23,7 +23,7 @@ We give them various names. Writer's block, ennui, The Resistance. We read about
 
 [EarlyWords](https://earlywords.io) is a tool for daily journaling in the style of Morning Pages espoused by Julia Cameron.
 
-Private, stream-of-concious journaling allows us to practice setting the resistance aside and allowing ourselves the freedom to make our thoughts manifest. With this daily practice we banish the internal editor, and become freer, more prolific, and more truthful in our work.
+Private, stream-of-concious journaling allows us to practice setting the resistance aside and allowing ourselves the freedom to make our thoughts manifest. With this daily practice we banish the inner critic and become freer, more prolific, and more truthful in our work.
 
 [Start your daily practice today.](https:://earlywords.io)
 
@@ -31,9 +31,9 @@ Private, stream-of-concious journaling allows us to practice setting the resista
 
 (Coming soon)
 
-Every week, your host Rob Head, interviews a successful artist or creative person. They talk about their journey to their place in the world as an artist and their daily practice(s) to care for and maintain their artistic selves.
+Every week, your host Rob Head interviews a successful artist or creative person. They talk about their journey to their place in the world as an artist and their daily practice(s) to care for and maintain their artistic selves.
 
-Every person is different and so is every artist. The art is different, as is the vision of success. But musicians, actors, comedians, and dancers all have a path they took and a practice they maintain. Hearing what works for them can help you find what will work for you.
+Every person is different and so is every artist. The art is different, as is the vision of success. But musicians, writers, actors, comedians, and dancers all have a path they took and a practice they maintain. Exploring what works for them can help us all find what works best in our own creative lives.
 
 ## Lightpanel
 
@@ -43,4 +43,4 @@ In an ideal world you would have just the right amount of natural light for film
 
 We don't live in an ideal world. Sometimes all you have is your computer screen.
 
-Lightpanel turns your computer screen into an adjustable panel light. It's perfect for Zoom meetings, video conferences, or audition self-tapes. Anytime you need a light but only have a computer screen, Lightpanel is the answer.
+Lightpanel turns any computer screen into an adjustable panel light with adjustable color temperature. It's perfect for Zoom meetings, video conferences, or audition self-tapes. Anytime you need a light but only have a computer screen, Lightpanel is here for you.
