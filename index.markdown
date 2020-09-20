@@ -1,4 +1,5 @@
 ---
+title: '' # The title shows up at the top of the page and as a menu link in minima if we don't set a title the first h1 becomes the title
 layout: home
 ---
 
