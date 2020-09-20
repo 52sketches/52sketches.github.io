@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About 52 Sketches
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+52 Sketches is a passion project of Rob Head and Damien Burke, a couple of
+friends who are both artists and coders.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+The mission of 52 Sketches is to create tools to enable and support lives of
+creativity.
 
+# About Rob
 
-[jekyll-organization]: https://github.com/jekyll
+Rob Head is a graduate student in music and interactive media, a composer, a pianist, a former choreographer, a game designer, and a coder. He lives in Ashland, Oregon.
+
+# About Damien
+
+Damien Burke is an MIT alum with a storied tech career, has led theater productions, starred in national commercials, and is a board member of the neighborhood council in Hollywood.
