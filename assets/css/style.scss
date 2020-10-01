@@ -1,0 +1,48 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+  background-image: url('/images/papertexture.png');
+  background-repeat: repeat-x repeat-y;
+}
+
+.site-logo {
+  max-width: 20rem;
+}
+
+.team-member {
+  margin: 1rem 0;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+  & > * {
+    flex: 1 1;
+  }
+
+  & > img {
+    &.portrait--rob {
+      margin-right: 2rem;
+    }
+
+    &.portrait--damien {
+      margin-left: 2rem;
+    }
+  }
+
+  &--damien {
+    & > div {
+      text-align: right;
+    }
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .team-member {
+    & > img.portrait {
+      max-width: 20rem;
+    }
+  }
+}

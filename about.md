@@ -12,10 +12,30 @@ friends who are both artists and coders.
 The mission of 52 Sketches is to create tools to enable and support lives of
 creativity.
 
-# About Rob
+<div class='team-member'>
+  <img
+    src="/images/portrait-rob.png"
+    alt="Rob Head sketch portrait"
+    class="portrait portrait--rob"
+  />
+  <div>
+    <h3>About Rob</h3>
+    <p>
+      Rob Head is a graduate student in music and interactive media, a composer, a pianist, a former choreographer, a game designer, and a coder. He lives in Ashland, Oregon.
+    </p>
+  </div>
+</div>
 
-Rob Head is a graduate student in music and interactive media, a composer, a pianist, a former choreographer, a game designer, and a coder. He lives in Ashland, Oregon.
-
-# About Damien
-
-Damien Burke is an MIT alum with a storied tech career, has led theater productions, starred in national commercials, and is a board member of the neighborhood council in Hollywood.
+<div class='team-member team-member--damien'>
+  <div>
+    <h3>About Damien</h3>
+    <p>
+      Damien Burke is an MIT alum with a storied tech career, has led theater productions, starred in national commercials, and is a board member of the neighborhood council in Hollywood.
+    </p>
+  </div>
+  <img
+    src="/images/portrait-damien.png"
+    alt="Damien Burke sketch portrait"
+    class="portrait portrait--damien"
+  />
+</div>
