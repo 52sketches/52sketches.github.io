@@ -13,16 +13,19 @@ body {
 }
 
 .team-member {
-  margin: 1rem 0;
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   flex-wrap: wrap;
 
   & > * {
-    flex: 1 1;
+    flex: 1 1 21rem;
+    margin: 1rem 0;
   }
 
   & > img {
+    max-width: 21rem;
+    max-height: 25.5rem;
+
     &.portrait--rob {
       margin-right: 2rem;
     }
@@ -35,14 +38,6 @@ body {
   &--damien {
     & > div {
       text-align: right;
-    }
-  }
-}
-
-@media only screen and (min-width: 768px) {
-  .team-member {
-    & > img.portrait {
-      max-width: 20rem;
     }
   }
 }
