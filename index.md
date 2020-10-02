@@ -21,11 +21,13 @@ Being an artist or an otherwise creative person is a constant challenge. There a
       Every person is different and so is every artist. The art is different, as is the vision of success. But musicians, writers, actors, comedians, and dancers all have a path they took and a practice they maintain. Exploring what works for them can help us all find what works best in our own creative lives.
     </p>
   </div>
-  <img
-    src="/images/podcast-cover.png"
-    alt="Rob Head sketch portrait"
-    class="section__image"
-  />
+  <a href='https://podcasts.apple.com/us/podcast/52-sketches/id1533501322'>
+    <img
+      src="/images/podcast-cover.png"
+      alt="Rob Head sketch portrait"
+      class="section__image"
+    />
+  </a>
 </section>
 
 ## EarlyWords

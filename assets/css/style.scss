@@ -19,19 +19,14 @@ section {
 
   & > * {
     flex: 1 1 21rem;
-    margin: 1rem 0;
-  }
-
-  & > a > img, & > img {
-    max-width: 21rem;
-    max-height: 25.5rem;
+    margin: 1rem;
 
     &:first-child {
-      margin-right: 2rem;
+      margin-left: 0;
     }
 
     &:last-child {
-      margin-left: 2rem;
+      margin-right: 0;
     }
   }
 
