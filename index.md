@@ -5,8 +5,6 @@ layout: sketches
 
 # Unleash your creativity.
 
-52 Sketches provide tools to help you unleash your creativity.
-
 Being an artist or an otherwise creative person is a constant challenge. There are forces that conspire to block, hold back, and impede your creativity. We give them various names. Writer's block, ennui, The Resistance. We read about them in _The Artist's Way_ by Julia Cameron, _The War of Art_ by Stephen Pressfield, and _On Writing_ by Steven King.
 
 **52 Sketches** is dedicated to creating tools to do something about it. We create things that help artists and creative people unlock their creativity, generate flow states, create, and live the lives of creative people.
