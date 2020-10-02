@@ -12,7 +12,7 @@ body {
   max-width: 20rem;
 }
 
-.team-member {
+section {
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
@@ -22,21 +22,21 @@ body {
     margin: 1rem 0;
   }
 
-  & > img {
+  & > a > img, & > img {
     max-width: 21rem;
     max-height: 25.5rem;
 
-    &.portrait--rob {
+    &:first-child {
       margin-right: 2rem;
     }
 
-    &.portrait--damien {
+    &:last-child {
       margin-left: 2rem;
     }
   }
 
-  &--damien {
-    & > div {
+  & > div {
+    &:first-child {
       text-align: right;
     }
   }

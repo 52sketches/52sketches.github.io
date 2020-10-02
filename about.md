@@ -12,11 +12,10 @@ friends who are both artists and coders.
 The mission of 52 Sketches is to create tools to enable and support lives of
 creativity.
 
-<div class='team-member'>
+<section>
   <img
     src="/images/portrait-rob.png"
     alt="Rob Head sketch portrait"
-    class="portrait portrait--rob"
   />
   <div>
     <h3>About Rob</h3>
@@ -24,9 +23,9 @@ creativity.
       Rob Head is a graduate student in music and interactive media, a composer, a pianist, a former choreographer, a game designer, and a coder. He lives in Ashland, Oregon.
     </p>
   </div>
-</div>
+</section>
 
-<div class='team-member team-member--damien'>
+<section>
   <div>
     <h3>About Damien</h3>
     <p>
@@ -36,6 +35,5 @@ creativity.
   <img
     src="/images/portrait-damien.png"
     alt="Damien Burke sketch portrait"
-    class="portrait portrait--damien"
   />
-</div>
+</section>
