@@ -36,7 +36,7 @@ Being an artist or an otherwise creative person is a constant challenge. There a
 
 Private, stream-of-concious journaling allows us to practice setting the resistance aside and allowing ourselves the freedom to make our thoughts manifest. With this daily practice we banish the inner critic and become freer, more prolific, and more truthful in our work.
 
-[Start your daily practice today.](https:://earlywords.io)
+[Start your daily practice today.](https://earlywords.io)
 
 <!---
 ## Lightpanel
