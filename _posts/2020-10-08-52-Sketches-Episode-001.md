@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: podcast
 category: podcast
 title: "Episode 1: Kevin Genus"
 date: 2020-10-08 10 am Pacific Time
