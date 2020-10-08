@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: podcast
 category: podcast
 title: "Podcast Theme"
 date: 2020-09-25
