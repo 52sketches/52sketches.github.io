@@ -16,7 +16,7 @@
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <image>
       <link>{{ site.url }}</link>
-      <url>{{ site.url }}/images/podcastcover.jpg</url>
+      <url>{{ site.url }}/images/podcast-cover.png</url>
       <title>{{ site.title }}</title>
     </image>
     <itunes:subtitle>{{ site.description | xml_escape }}</itunes:subtitle>
@@ -27,7 +27,7 @@
       <itunes:name>{{ site.author }}</itunes:name>
       <itunes:email>{{ site.email }}</itunes:email>
     </itunes:owner>
-    <itunes:image href="{{ site.url }}/images/podcastcover.jpg" />
+    <itunes:image href="{{ site.url }}/images/podcast-cover.png" />
     <itunes:category text="Arts" />
     <itunes:explicit>no</itunes:explicit>
     {% for post in site.categories['podcast'] %}
