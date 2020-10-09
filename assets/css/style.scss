@@ -23,16 +23,11 @@ section {
 
     &:first-child {
       margin-left: 0;
+      text-align: right;
     }
 
     &:last-child {
       margin-right: 0;
-    }
-  }
-
-  & > div {
-    &:first-child {
-      text-align: right;
     }
   }
 }
