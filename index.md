@@ -25,7 +25,7 @@ Being an artist or an otherwise creative person is a constant challenge. There a
     <img
       src="/images/podcast-cover.png"
       alt="Rob Head sketch portrait"
-      class="section__image"
+      class="section__image podcast-cover"
     />
   </a>
 </section>
