@@ -20,10 +20,10 @@ Rob Head (00:18):
 52 sketches.
 
 Damien Burke (00:23):
-Welcome to 52 sketches, a podcast about creativity and creative. Here is your host, Rob head.
+Welcome to 52 sketches, a podcast about creativity and creative. Here is your host, Rob Head.
 
 Rob Head (00:33):
-Welcome to the 52 sketches podcast. I am your host, Rob head. We are here to talk about creativity and living a creative life practices, habits, strategies for making things. So today we are going to speak with voice artists, Kevin genus. He has been featured on countless commercials, movie trailers, news, teasers, videos, et cetera. You may have heard Kevin's wonderful voice on Verizon ads or CNN or Saturday night live
+Welcome to the 52 sketches podcast. I am your host, Rob Head. We are here to talk about creativity and living a creative life practices, habits, strategies for making things. So today we are going to speak with voice artists, Kevin genus. He has been featured on countless commercials, movie trailers, news, teasers, videos, et cetera. You may have heard Kevin's wonderful voice on Verizon ads or CNN or Saturday night live
 
 Kevin Genus (01:04):
 Was cooler than Gatorade green. Quizno's most popular sub just got way more popular. That moves way too fast. Smoothest riding off road, utility vehicles in the world.
