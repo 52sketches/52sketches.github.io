@@ -12,7 +12,15 @@ explicit: "no" # "yes" or "no"
 block: "no" # means is shown in itunes
 ---
 
-Theatre and cultural producer Claudia Alick talks about 
+Theatre and cultural producer Claudia Alick talks about her artistic upbringing
+and causing justice and poetry to happen all over the country.
+
+[Claudia Alick](http://www.claudiaalick.com)
+[This Week in Cultural Appropriation](https://www.youtube.com/playlist?list=PLx6zKuawL6VgkBwsOPHC6AjVUCsAYPMmf)
+[Calling Up](http://www.claudiaalick.com/calling-up.html)
+[We Charge Genocide TV](https://www.wechargegenocide.tv)
+[Every 28 Hours Plays](http://www.every28hoursplays.org)
+[Support Calling Up Studios](paypal.me/callingup)
 
 ## Transcript
 
@@ -177,7 +185,6 @@ Beautiful thanks for for sharing that. I appreciate the reframing of how you you
 
 Claudia Alick  30:53
 Yes, definitely. No sustainability design is
-
 is a is a wonderful way to frame that. Hmm.
 
 Rob Head  31:03
