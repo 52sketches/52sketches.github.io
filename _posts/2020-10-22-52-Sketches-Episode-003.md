@@ -15,12 +15,12 @@ block: "no" # means is shown in itunes
 Theatre and cultural producer Claudia Alick talks about her artistic upbringing
 and causing justice and poetry to happen all over the country.
 
-[Claudia Alick](http://www.claudiaalick.com)
-[This Week in Cultural Appropriation](https://www.youtube.com/playlist?list=PLx6zKuawL6VgkBwsOPHC6AjVUCsAYPMmf)
-[Calling Up](http://www.claudiaalick.com/calling-up.html)
-[We Charge Genocide TV](https://www.wechargegenocide.tv)
-[Every 28 Hours Plays](http://www.every28hoursplays.org)
-[Support Calling Up Studios](paypal.me/callingup)
+- [Claudia Alick](http://www.claudiaalick.com)
+- [This Week in Cultural Appropriation](https://www.youtube.com/playlist?list=PLx6zKuawL6VgkBwsOPHC6AjVUCsAYPMmf)
+- [Calling Up](http://www.claudiaalick.com/calling-up.html)
+- [We Charge Genocide TV](https://www.wechargegenocide.tv)
+- [Every 28 Hours Plays](http://www.every28hoursplays.org)
+- [Support Calling Up Studios](paypal.me/callingup)
 
 ## Transcript
 
