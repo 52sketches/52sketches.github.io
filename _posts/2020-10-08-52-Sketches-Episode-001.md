@@ -1,7 +1,7 @@
 ---
 layout: podcast
 category: podcast
-title: "Episode 1: Kevin Genus"
+title: "Episode 1: Voiceover Artist Kevin Genus"
 date: 2020-10-08 10 am Pacific Time
 file: https://52sketchespodcast.s3-us-west-1.amazonaws.com/52sketches-episode-001.mp3
 excerpt: Conversation about creativity with voiceover artist Kevin Genus

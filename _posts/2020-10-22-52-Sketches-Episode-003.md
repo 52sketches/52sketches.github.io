@@ -1,7 +1,7 @@
 ---
 layout: podcast
 category: podcast
-title: "Episode 3: Claudia Alick"
+title: "Episode 3: Theatre and Cultural Producer Claudia Alick"
 date: 2020-10-22 10 am Pacific Time
 file: https://52sketchespodcast.s3-us-west-1.amazonaws.com/52sketches-episode-003.mp3
 excerpt: Conversation about creativity with theatre producer Claudia Alick
