@@ -15,6 +15,7 @@ block: "no" # means is shown in itunes
 Actor, writer, singer, songwriter, and voice actor Phillip Daniel talks about his
 introduction to acting, his recent projects including the nation's favorite yacht rock band, Yächtley Crëw, and the emotional risks for actors and artists.
 
+- [Phillip Daniel on IMDB](https://www.imdb.com/name/nm1746141/)
 - [Yächtley Crëw](https://www.yachtleycrew.com)
 
 ## Transcript
