@@ -6,8 +6,8 @@ date: 2020-10-29 10 am Pacific Time
 file: https://52sketchespodcast.s3-us-west-1.amazonaws.com/52sketches-episode-004.mp3
 excerpt: Conversation about creativity with dance artist Angela Todaro
 summary: Conversation about creativity with dance artist Angela Todaro
-duration: "32:30" # audio length in mm:ss
-length: "62406241" # filesize in bytes
+duration: "34:16" # audio length in mm:ss
+length: "65798397" # filesize in bytes
 explicit: "no" # "yes" or "no"
 block: "no" # means is shown in itunes
 ---
