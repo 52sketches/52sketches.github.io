@@ -23,7 +23,7 @@ and practice as a dance artist in Los Angeles.
 ## Transcript
 
 Rob Head  0:01
-52 sketches, Episode Four, dancer, choreographer, Angela to d'Oro
+52 sketches, Episode Four, dancer, choreographer, Angela Todaro.
 
 Jennifer Head  0:11
 Welcome to 52 sketches, a podcast about creativity and creative practices. here's your host, Rob head.
