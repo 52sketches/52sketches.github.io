@@ -18,6 +18,8 @@ introduction to acting, his recent projects including the nation's favorite yach
 - [Phillip Daniel on IMDB](https://www.imdb.com/name/nm1746141/)
 - [Yächtley Crëw](https://www.yachtleycrew.com)
 
+![52 Sketches episode 2 — Phillip Daniel](/images/Ep2-Phillip-Daniel.png)
+
 ## Transcript
 
 Rob Head  0:03

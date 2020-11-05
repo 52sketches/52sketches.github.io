@@ -22,6 +22,8 @@ and causing justice and poetry to happen all over the country.
 - [Every 28 Hours Plays](http://www.every28hoursplays.org)
 - [Support Calling Up Studios](paypal.me/callingup)
 
+![52 Sketches episode 3 — Claudia Alick](/images/Ep3-Claudia-Alick.png)
+
 ## Transcript
 
 Rob Head  0:03

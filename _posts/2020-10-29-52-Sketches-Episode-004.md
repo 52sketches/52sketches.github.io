@@ -20,6 +20,8 @@ and practice as a dance artist in Los Angeles.
 - [Choreograophy Reel](https://www.youtube.com/watch?v=e2tiHs05Xds)
 - [Dance Reel](https://www.youtube.com/watch?v=G5bFnrFqb-I)
 
+![52 Sketches episode 4 — Angela Todaro](/images/Ep4-Angela-Todaro.png)
+
 ## Transcript
 
 Rob Head  0:01
