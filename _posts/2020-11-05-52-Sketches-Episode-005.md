@@ -21,6 +21,8 @@ musician, writer, and facilitator.
 - [Arden Leigh on Facebook](https://www.facebook.com/arden.leigh)
 - [Arden Leigh on YouTube](https://www.youtube.com/user/ardensirens/videos)
 
+![52 Sketches episode 5 — Arden Leigh](/images/Ep5-Arden-Leigh.png)
+
 ## Transcript
 
 Rob Head  0:03
