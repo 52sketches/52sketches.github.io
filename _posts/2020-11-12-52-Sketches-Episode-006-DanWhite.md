@@ -16,10 +16,10 @@ Actor and stand-up comedian Dan White talks about how grade school performances
 get him jobs now, transitioning from a student to a professional, and how he
 stays ready every day.
 
-- [Dan White on iMDB](https://www.imdb.com/name/nm1726122/)
-- [CalArts](https://calarts.edu/)
-- ["Diversity Day." *The Office* on iMDB](https://www.imdb.com/title/tt0664514/)
-- [Pulp Shakespeare trailer](https://www.youtube.com/watch?v=GwrMcsQBEBo)
+- [Dan White on iMDB](https://www.imdb.com/name/nm1726122/){:target="_blank"}
+- [CalArts](https://calarts.edu/){:target="_blank"}
+- ["Diversity Day." *The Office* on iMDB](https://www.imdb.com/title/tt0664514/){:target="_blank"}
+- [Pulp Shakespeare trailer](https://www.youtube.com/watch?v=GwrMcsQBEBo){:target="_blank"}
 
 ## Transcript
 

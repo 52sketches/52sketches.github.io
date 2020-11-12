@@ -16,9 +16,9 @@ Classical pianist Kimberly StarKey, the Rogue Pianist, talks about chasing
 spiritual connections through the piano, moving the boulder of creativity
 little by little, and the worst thing she has ever done.
 
-- [Kimberly StarKey on Bandcamp](https://kimberlystarkey.bandcamp.com)
-- [The Rogue Pianist on YouTube](https://www.youtube.com/channel/UCpfC4Uvuy_P1uVehPChKRmA)
-- [The Fire Within, with Jennifer Thomas](https://www.youtube.com/watch?v=sSSj0nTsytg)
+- [Kimberly StarKey on Bandcamp](https://kimberlystarkey.bandcamp.com){:target="_blank"}
+- [The Rogue Pianist on YouTube](https://www.youtube.com/channel/UCpfC4Uvuy_P1uVehPChKRmA){:target="_blank"}
+- [The Fire Within, with Jennifer Thomas](https://www.youtube.com/watch?v=sSSj0nTsytg){:target="_blank"}
 
 ## Transcript
 

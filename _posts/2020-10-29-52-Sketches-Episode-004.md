@@ -16,9 +16,9 @@ Dancer and choreographer Angela Todaro talks being a dancer from age two,
 incorporating different dance styles in her work, and building a diverse career
 and practice as a dance artist in Los Angeles.
 
-- [Angela Todaro](http://www.angelatodaro.com)
-- [Choreograophy Reel](https://www.youtube.com/watch?v=e2tiHs05Xds)
-- [Dance Reel](https://www.youtube.com/watch?v=G5bFnrFqb-I)
+- [Angela Todaro](http://www.angelatodaro.com){:target="_blank"}
+- [Choreograophy Reel](https://www.youtube.com/watch?v=e2tiHs05Xds){:target="_blank"}
+- [Dance Reel](https://www.youtube.com/watch?v=G5bFnrFqb-I){:target="_blank"}
 
 ![52 Sketches episode 4 — Angela Todaro](/images/Ep4-Angela-Todaro.png)
 

@@ -16,10 +16,10 @@ Singer and songwriter Arden Leigh talks about starting out as a musical theatre
 geek, finding new ways to touch the sublime, and her current work as a rock
 musician, writer, and facilitator.
 
-- [The Repatterning Project](https://therepatterningproject.com)
-- [Who Can You Trust](https://onerpm.lnk.to/whocanyoutrust)
-- [Arden Leigh on Facebook](https://www.facebook.com/arden.leigh)
-- [Arden Leigh on YouTube](https://www.youtube.com/user/ardensirens/videos)
+- [The Repatterning Project](https://therepatterningproject.com){:target="_blank"}
+- [Who Can You Trust](https://onerpm.lnk.to/whocanyoutrust){:target="_blank"}
+- [Arden Leigh on Facebook](https://www.facebook.com/arden.leigh){:target="_blank"}
+- [Arden Leigh on YouTube](https://www.youtube.com/user/ardensirens/videos){:target="_blank"}
 
 ![52 Sketches episode 5 — Arden Leigh](/images/Ep5-Arden-Leigh.png)
 
