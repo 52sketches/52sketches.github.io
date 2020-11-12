@@ -17,6 +17,7 @@ get him jobs now, transitioning from a student to a professional, and how he
 stays ready every day.
 
 - [Dan White on iMDB](https://www.imdb.com/name/nm1726122/)
+- [CalArts](https://calarts.edu/)
 - ["Diversity Day." *The Office* on iMDB](https://www.imdb.com/title/tt0664514/)
 - [Pulp Shakespeare trailer](https://www.youtube.com/watch?v=GwrMcsQBEBo)
 
