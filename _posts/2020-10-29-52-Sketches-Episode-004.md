@@ -12,7 +12,7 @@ explicit: "no" # "yes" or "no"
 block: "no" # means is shown in itunes
 ---
 
-Dancer and choreographer Angela Todaro talks being a dancer from age two,
+Dancer and choreographer Angela Todaro discusses being a dancer from age two,
 incorporating different dance styles in her work, and building a diverse career
 and practice as a dance artist in Los Angeles.
 
