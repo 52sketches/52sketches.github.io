@@ -21,6 +21,8 @@ stays ready every day.
 - ["Diversity Day." *The Office* on iMDB](https://www.imdb.com/title/tt0664514/){:target="_blank"}
 - [Pulp Shakespeare trailer](https://www.youtube.com/watch?v=GwrMcsQBEBo){:target="_blank"}
 
+![52 Sketches episode 6 — Dan White](/images/Ep6-Dan-White.png)
+
 ## Transcript
 
 Rob Head  0:02
