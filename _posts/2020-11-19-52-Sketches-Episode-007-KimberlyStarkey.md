@@ -6,8 +6,8 @@ date: 2020-11-19 10:00:00 -0800
 file: https://52sketchespodcast.s3-us-west-1.amazonaws.com/52sketches-episode-007-KimberlyStarKey.mp3
 excerpt: Conversation about creativity with the Rogue Pianist Kimberly StarKey
 summary: Conversation about creativity with the Rogue Pianist Kimberly StarKey
-duration: "TODO" # audio length in mm:ss
-length: "TODO" # filesize in bytes
+duration: "48:56" # audio length in mm:ss
+length: "93957980" # filesize in bytes
 explicit: "no" # "yes" or "no"
 block: "no" # means is shown in itunes
 ---
