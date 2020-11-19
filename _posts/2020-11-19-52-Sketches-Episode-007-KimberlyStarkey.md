@@ -22,7 +22,3 @@ little by little, and the worst thing she has ever done.
 - [Big Magic: Creative Living Beyond Fear, by Elizabeth Gilbert](https://www.amazon.com/Big-Magic-Creative-Living-Beyond/dp/1594634726){:target="_blank"}
 
 ![52 Sketches episode 7 — Kimberly StarKey](/images/Ep7-Kimberly-StarKey.png)
-
-## Transcript
-
-TODO
