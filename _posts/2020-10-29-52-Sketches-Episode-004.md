@@ -2,7 +2,7 @@
 layout: podcast
 category: podcast
 title: "Episode 4: Dance Artist Angela Todaro"
-date: 2020-10-29 10 am Pacific Time
+date: 2020-10-29 10:00:00 -0800
 file: https://52sketchespodcast.s3-us-west-1.amazonaws.com/52sketches-episode-004.mp3
 excerpt: Conversation about creativity with dance artist Angela Todaro
 summary: Conversation about creativity with dance artist Angela Todaro

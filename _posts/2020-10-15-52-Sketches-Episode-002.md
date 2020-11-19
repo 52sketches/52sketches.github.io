@@ -2,7 +2,7 @@
 layout: podcast
 category: podcast
 title: "Episode 2: Actor, Singer, and Songwriter Phillip Daniel"
-date: 2020-10-15 10 am Pacific Time
+date: 2020-10-15 10:00:00 -0700
 file: https://52sketchespodcast.s3-us-west-1.amazonaws.com/52sketches-episode-002.mp3
 excerpt: Conversation about creativity with multi-disciplinary artist Phillip Daniel
 summary: Conversation about creativity with multi-disciplinary artist Phillip Daniel

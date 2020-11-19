@@ -2,7 +2,7 @@
 layout: podcast
 category: podcast
 title: "Episode 6: Actor and Comic Dan White"
-date: 2020-11-12 10 am Pacific Time
+date: 2020-11-12 10:00:00 -0800
 file: https://52sketchespodcast.s3-us-west-1.amazonaws.com/52sketches-episode-006-DanWhite.mp3
 excerpt: Conversation about creativity with actor and comic Dan White
 summary: Conversation about creativity with actor and comic Dan White
