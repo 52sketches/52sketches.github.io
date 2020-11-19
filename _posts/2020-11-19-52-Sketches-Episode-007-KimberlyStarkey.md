@@ -2,7 +2,7 @@
 layout: podcast
 category: podcast
 title: "Episode 7: The Rogue Pianist Kimberly StarKey"
-date: 2020-11-19 10 am Pacific Time
+date: 2020-11-19 10:00:00 -0800
 file: https://52sketchespodcast.s3-us-west-1.amazonaws.com/52sketches-episode-007-KimberlyStarKey.mp3
 excerpt: Conversation about creativity with the Rogue Pianist Kimberly StarKey
 summary: Conversation about creativity with the Rogue Pianist Kimberly StarKey
