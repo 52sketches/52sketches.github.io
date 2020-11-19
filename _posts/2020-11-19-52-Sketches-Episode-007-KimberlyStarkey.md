@@ -12,9 +12,7 @@ explicit: "no" # "yes" or "no"
 block: "no" # means is shown in itunes
 ---
 
-Classical pianist Kimberly StarKey, the Rogue Pianist, talks about chasing
-spiritual connections through the piano and moving the boulder of creativity
-little by little.
+Musician and composer Kimberly StarKey, the Rogue Pianist, talks about chasing spiritual connections through the piano and moving the boulder of creativity little by little.
 
 - [Kimberly StarKey on Bandcamp](https://kimberlystarkey.bandcamp.com){:target="_blank"}
 - [The Rogue Pianist on YouTube](https://www.youtube.com/channel/UCpfC4Uvuy_P1uVehPChKRmA){:target="_blank"}
@@ -416,7 +414,7 @@ Kimberly StarKey  43:08
 Exactly. Then I will feel, you know, accomplished and successful, and liberated and all this stuff. Well, if you can flip that, and say, You know what, I am now going to choose to feel accomplished and liberated and successful. And from there, you can choose what you want, and you can go for it. But always starting with the emotions that you want to feel and the energy you want to feel and going from there. Because if you if you don't, what can happen? And I fell into this of like, I had this dream that was out there. And then I was filled with this energy of like, but I'll never make it. It's so hard. There's no way oh my gosh. And so then, even if I would actually accomplish something, I couldn't even enjoy it. Because it was like, was that really worth all the suffrage I just put myself through? And no, it really wasn't. And so now it's like, I just start with, like, coming from the energy of what I want and the feeling of, you know, the feeling of dreaming is exciting. Like, at least for me, I used to drive with my mom and we would have a mocha and we would like dream about the future. And literally, when I look back that was like the best part of it all. way I got Yeah, it was that moment in the car with my mom drinking a mocha and just like how happy and free we felt. Yeah, that Yeah. would be my advice for for anybody.
 
 Rob Head  44:23
-Fantastic. You remind me of folks that say, you know you're you're already worthy. Just do  your thing. Yes. You know, 
+Fantastic. You remind me of folks that say, you know you're you're already worthy. Just do  your thing. Yes. You know,
 
 Kimberly StarKey  44:29
 Yes. Love it. Yes.
