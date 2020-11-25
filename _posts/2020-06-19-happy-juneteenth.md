@@ -12,4 +12,4 @@ That fight is still going on today. Our streets are filled with young and old fr
 
 We’re taking today to reflect on our place in the world. How can we best help to dismantle systems of injustice that block others from the wondrous possibilities this life offers?
 
--- Damien and Rob
+— Damien and Rob
