@@ -2,7 +2,7 @@
 layout: podcast
 category: podcast
 title: "Episode 8: Rock Musician Armando Posada"
-date: 2020-11-25 10:00:00 -0800
+date: 2020-11-26 10:00:00 -0800
 file: https://52sketchespodcast.s3-us-west-1.amazonaws.com/52sketches-episode-008-ArmandoPosada.mp3
 excerpt: Conversation about creativity with Rock Musician Armando Posada
 summary: Conversation about creativity with Rock Musician Armando Posada
