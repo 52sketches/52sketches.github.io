@@ -24,13 +24,13 @@ Musician and composer Kimberly StarKey, the Rogue Pianist, talks about chasing s
 ## Transcript
 
 Rob Head  0:01
-52 sketches podcast, Episode Seven, rogue pianist Kimberly Starkey
+52 sketches podcast, Episode Seven, rogue pianist Kimberly StarKey
 
 Jennifer Head  0:12
 Welcome to 52. sketches, a podcast about creativity and creative practices. here's your host, Rob head.
 
 Rob Head  0:21
-Welcome to the 52 sketches Podcast. I am your host Rob head. We are here again to talk about living a creative life, creativity practices, habits, strategies for making wonderful things and experiences. In this episode, I am so pleased to welcome Kimberly Starkey to the show. Kimberly Starkey, also known as the rogue pianist, is a classically trained contemporary pianist and composer. Her musical style can be described as powerful, radiant, dreamy, and inspiring, rooted in both the Romantic period of classical music and contemporary styles. Her debut album of original piano compositions dream was nominated for Album of the Year in 2014. By whisperin, solo piano radio, and a composition Ascension was nominated in the contemporary classical instrumental category at the 2016 Hollywood music and Media Awards. And she's since gone on to ever greater success in the years since with new releases. So welcome, Kimberly. Thank you for having me, Rob. I'm so excited to be here. Yeah. So I usually ask a bit of a risky question at the opening here, I want to ask you, you know, how are you in this sort of 2020 pandemic era? How are you and your loved ones? And
+Welcome to the 52 sketches Podcast. I am your host Rob head. We are here again to talk about living a creative life, creativity practices, habits, strategies for making wonderful things and experiences. In this episode, I am so pleased to welcome Kimberly StarKey to the show. Kimberly StarKey, also known as the rogue pianist, is a classically trained contemporary pianist and composer. Her musical style can be described as powerful, radiant, dreamy, and inspiring, rooted in both the Romantic period of classical music and contemporary styles. Her debut album of original piano compositions dream was nominated for Album of the Year in 2014. By whisperin, solo piano radio, and a composition Ascension was nominated in the contemporary classical instrumental category at the 2016 Hollywood music and Media Awards. And she's since gone on to ever greater success in the years since with new releases. So welcome, Kimberly. Thank you for having me, Rob. I'm so excited to be here. Yeah. So I usually ask a bit of a risky question at the opening here, I want to ask you, you know, how are you in this sort of 2020 pandemic era? How are you and your loved ones? And
 
 how are you doing?
 
