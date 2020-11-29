@@ -15,6 +15,8 @@ block: "no" # means is shown in itunes
 Rock musician Armando Posada discusses his life, his artistic roots, and the
 stages of his career as a musician, songwriter, producer, and radio host.
 
+![52 Sketches episode 8 — Armando Posada](/images/Ep8-Armando-Posada.png)
+
 ## Transcript
 
 Rob Head  0:02
@@ -268,6 +270,6 @@ Rob Head  36:33
 Now, Ava Storm, we need the night, co written and produced by our guest, Armando Posada.
 
 Ava Storm  36:52
-If you like the ride / Come fly with me / You'll touch the sky / Just hold on tight to me / Just hold tight to me / You want my heart / My love and my soul / Don't cut too deep / Just learn to let it all go / And don't lie to me / 
+If you like the ride / Come fly with me / You'll touch the sky / Just hold on tight to me / Just hold tight to me / You want my heart / My love and my soul / Don't cut too deep / Just learn to let it all go / And don't lie to me /
 
 
