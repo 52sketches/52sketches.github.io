@@ -18,6 +18,7 @@ composing for spoken word, and building a relationship with his community.
 - [Daniel Austin Sperry](https://www.danielaustinsperry.com/){:target="_blank"}
 - [Daniel Sperry on Bandcamp](https://danielaustinsperry.bandcamp.com){:target="_blank"}
 - [Cellist Daniel Sperry Interprets Ashland’s Lithia Park For Music And Emotion](https://1859oregonmagazine.com/live/cellist-daniel-sperry-interprets-ashlands-lithia-park-for-music-and-emotion/){:target="_blank"}
+- [Daniel Sperry on Spotify](https://open.spotify.com/user/1225406415){:target="_blank"}
 
 ![52 Sketches episode 9 — Daniel Sperry](/images/Ep9-Daniel-Sperry.png)
 
