@@ -297,5 +297,5 @@ Yes. Okay. Have a great, have a great day.
 Kevin Genus (35:41):
 Take care.
 
-New Speaker (35:41):
-The 52 sketches podcast is a product of 52 sketches makers of early words.io, daily private stream of consciousness, writing to clear your mind and unlock your creativity.
+Damien Burke (35:41):
+The 52 sketches podcast is a product of 52 sketches, makers of earlywords.io, daily, private, stream-of-consciousness writing, to clear your mind and unlock your creativity.

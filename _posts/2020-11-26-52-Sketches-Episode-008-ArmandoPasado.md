@@ -264,12 +264,10 @@ Armando Posada  35:52
 Well, listen, thank you for the opportunity. I appreciate the platform and you take care of you to
 
 Damien Burke  36:11
-the 52 sketches podcast is a product of 52 sketch, makers of early words.io daily price, stream of consciousness writing to clear your mind and unlocking your creativity.
+The 52 sketches podcast is a product of 52 sketches, makers of earlywords.io, daily, private, stream-of-consciousness writing, to clear your mind and unlock your creativity.
 
 Rob Head  36:33
 Now, Ava Storm, we need the night, co written and produced by our guest, Armando Posada.
 
 Ava Storm  36:52
 If you like the ride / Come fly with me / You'll touch the sky / Just hold on tight to me / Just hold tight to me / You want my heart / My love and my soul / Don't cut too deep / Just learn to let it all go / And don't lie to me /
-
-

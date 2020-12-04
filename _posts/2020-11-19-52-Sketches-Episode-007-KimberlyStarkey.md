@@ -435,8 +435,8 @@ Fantastic. Thank you so much.
 Kimberly StarKey  44:53
 Thank you.
 
-Unknown Speaker  45:07
-The 52 sketches podcast is a product of 52 scanner, makers of early words that I have daily stream of consciousness writing to clear your mind and unlocking your creativity.
+Damien Burke  45:07
+The 52 sketches podcast is a product of 52 sketches, makers of earlywords.io, daily, private, stream-of-consciousness writing, to clear your mind and unlock your creativity.
 
 Rob Head  45:29
 taking us out—the latest release from the Rogue Pianist: "Quarantine"
