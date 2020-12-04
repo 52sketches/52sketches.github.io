@@ -14,6 +14,9 @@ block: "no" # means is shown in itunes
 
 Voiceover artist Kevin Genus talks about his earliest creative outlets, his history with the French horn, his transition into the tech industry, and the surprising way that launched his career as a voiceover artist.
 
+- [Kevin Genus](https://www.kevingenus.com/){:target="_blank"}
+- [Peabody Institute](https://peabody.jhu.edu/){:target="_blank"}
+
 ![52 Sketches episode 1 — Kevin Genus](/images/Ep1-Kevin-Genus.png)
 
 ## Transcript
@@ -70,7 +73,7 @@ Kevin Genus (07:08):
 Junior high. Yeah. That horn was just like, for, for whatever reason, it was a natural fit for me. So yeah, in high school I continued playing the horn. I spent my time, you know, on bulletin boards, you know, messing around with computers and I'd pretty much decided I'm going to, I'm going to music school. So
 
 Rob Head (07:30):
-[Inaudible], but all these things sort of come together. I'm good because I, you know, we know each other, I, I sort of know your backstory. Let's talk about how you got from a French horn whiz kid to, to voice artist. So kind of, yeah, what's the two minute version of that.
+but all these things sort of come together. I'm good because I, you know, we know each other, I, I sort of know your backstory. Let's talk about how you got from a French horn whiz kid to, to voice artist. So kind of, yeah, what's the two minute version of that.
 
 Kevin Genus (07:48):
 The quick and short is I left Peabody and, you know, cause I'm sorry. Yeah. If I end up going to Peabody conservatory, after two years there, I went on my year of service. I'm a high and behinds are we're encouraged back then. I don't know if they still are today to go on year a year of service, which is where you're going. You serve humanity for a year. And I chose to go to Lewis, Gregory behind Institute in South Carolina. And they had a radio station down there,
@@ -136,7 +139,7 @@ Rob Head (13:54):
 Yes. As a manager that was, he should get full credit for that. He took full credit for it.
 
 Kevin Genus (14:00):
-He trusted me. He did. But you know, when they found out who it was, they they had me begin recording Verizon commercials after that. And you know, little did I know James Earl Jones had been, I'm just going to say under the weather. And they had reached a point where they were going to transition off to a new voice. So they found me temporarily and you know, it's actually pretty cool. Cause you know, now, you know, I know all these people today, but I think for maybe about a year, eight months to a year now, for me to say months to a year is like really like one or two sessions you do. And they just roll for that period of time. Then they hired rod Houston who just phenomenal. You hear rod all the time on CBS sports. Right,
+He trusted me. He did. But you know, when they found out who it was, they they had me begin recording Verizon commercials after that. And you know, little did I know James Earl Jones had been, I'm just going to say under the weather. And they had reached a point where they were going to transition off to a new voice. So they found me temporarily and you know, it's actually pretty cool. Cause you know, now, you know, I know all these people today, but I think for maybe about a year, eight months to a year now, for me to say months to a year is like really like one or two sessions you do. And they just roll for that period of time. Then they hired Rod Houston who just phenomenal. You hear rod all the time on CBS sports. Right,
 
 Rob Head (14:58):
 Right.
