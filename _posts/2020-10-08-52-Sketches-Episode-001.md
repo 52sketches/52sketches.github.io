@@ -76,25 +76,25 @@ Rob Head (07:30):
 but all these things sort of come together. I'm good because I, you know, we know each other, I, I sort of know your backstory. Let's talk about how you got from a French horn whiz kid to, to voice artist. So kind of, yeah, what's the two minute version of that.
 
 Kevin Genus (07:48):
-The quick and short is I left Peabody and, you know, cause I'm sorry. Yeah. If I end up going to Peabody conservatory, after two years there, I went on my year of service. I'm a high and behinds are we're encouraged back then. I don't know if they still are today to go on year a year of service, which is where you're going. You serve humanity for a year. And I chose to go to Lewis, Gregory behind Institute in South Carolina. And they had a radio station down there,
+The quick and short is I left Peabody and, you know, cause I'm sorry. Yeah. If I end up going to Peabody conservatory, after two years there, I went on my year of service. I'm a Bahá'í and Bahá'ís are—were encouraged back then. I don't know if they still are today—to go on year a year of service, which is where you're going. You serve humanity for a year. And I chose to go to Lewis Gregory Bahá'í Institute in South Carolina. And they had a radio station down there,
 
 Rob Head (08:19):
 A radio station. Yeah. You have a radio voice.
 
 Kevin Genus (08:23):
-Well, I, I, yeah. I, I didn't back then which was actually pretty good, but I remember hearing these people talk and it was like, how come every time I say something, it doesn't sound like that. And it didn't. And so, you know, that was my first real introduction to voiceover. I wouldn't call it voiceover, I would say to radio copy because voiceover and radio copy are two totally different things. I would say, which you understand better than the rest of us, right? Yeah. Right. Yeah. And just for your audience, radio copy is where we want to deal with tonight. Today. That's that's radio copy. But you know, you ever listened to Morgan Freeman, that's voiceover, we stand and cheer and celebrate as well.
+Well, I, I, yeah. I, I didn't back then which was actually pretty good, but I remember hearing these people talk and it was like, how come every time I say something, it doesn't sound like that. And it didn't. And so, you know, that was my first real introduction to voiceover. I wouldn't call it voiceover, I would say to radio copy because voiceover and radio copy are two totally different things. I would say,
 
-Rob Head (09:25):
-We forget all the things
+Rob Head (08:59):
+Right. Which you understand better than the rest of us.
 
-Kevin Genus (09:26):
-Does that make us different? You know, that's, that's what in the industry we, we consider to be voiceover, the radio stuff we call puke. So,
+Kevin Genus (09:02):
+Right. Yeah. And just for your audience, radio copy is "We're wheeling and dealing, tonight at 8! blah-blah-blah-blah-blah!" That's that's radio copy. But you know, you ever listened to Morgan Freeman, that's voiceover, "we stand and cheer and celebrate as one. We forget all the things that make us different." You know, that's, that's what in the industry we, we consider to be voiceover, the radio stuff we call puke. So,
 
-Speaker 3 (09:37):
-Right, right, right.
+Rob Head (09:37):
+The voiceover people do. We all have our ivory towers.
 
 Rob Head (09:41):
-Oh, some glass and glass.
+Oh, some glass, some glass.
 
 Kevin Genus (09:44):
 So I was working at Verizon. I was a programmer analyst and the we were doing this massive upgrade and we needed a way to inform the whole company what was happening and the upgrades were going to happen in little chunks. So we figured we would put together this 45 minute presentation, which would get everybody away from their desk long enough for all these Unix boxes, you know, windows machines to do whatever they had to do.
@@ -118,7 +118,7 @@ Kevin Genus (12:22):
 Yeah. This, this was like 2003, 2004. And so they said no. And they explained to me, James Earl Jones was like $75,000. If I put that in the file, which, you know, 75,000 plus 8,000 was definitely not going to happen. I mean, it was crazy. I went in there and I just did my best impersonation of James Earl Jones. And so on the day of the rollouts, my was like, Stretton this stuff, he's all happy. This is all gonna make me look good. What's that
 
 Rob Head (13:05):
-And date, it will
+Indeed, it will
 
 Kevin Genus (13:09):
 Roll outs happen. And
@@ -133,19 +133,19 @@ Rob Head (13:39):
 Well, yeah, you're not kidding about impersonation. Wow.
 
 Kevin Genus (13:44):
-And so my manager was like, no, no, no, that's not. That's one of our own, that's not Jane Jones. And, you know,
+And so my manager was like, no, no, no, that's not. That's one of our own, that's not James Earl Jones. And, you know,
 
 Rob Head (13:54):
 Yes. As a manager that was, he should get full credit for that. He took full credit for it.
 
 Kevin Genus (14:00):
-He trusted me. He did. But you know, when they found out who it was, they they had me begin recording Verizon commercials after that. And you know, little did I know James Earl Jones had been, I'm just going to say under the weather. And they had reached a point where they were going to transition off to a new voice. So they found me temporarily and you know, it's actually pretty cool. Cause you know, now, you know, I know all these people today, but I think for maybe about a year, eight months to a year now, for me to say months to a year is like really like one or two sessions you do. And they just roll for that period of time. Then they hired Rod Houston who just phenomenal. You hear rod all the time on CBS sports. Right,
+He trusted me. He did. But you know, when they found out who it was, they they had me begin recording Verizon commercials after that. And you know, little did I know James Earl Jones had been, I'm just going to say under the weather. And they had reached a point where they were going to transition off to a new voice. So they found me temporarily and you know, it's actually pretty cool. Cause you know, now, you know, I know all these people today, but I think for maybe about a year, eight months to a year now, for me to say months to a year is like really like one or two sessions you do. And they just roll for that period of time. Then they hired Rod Houston who just phenomenal. You hear Rod all the time on CBS sports. Right,
 
 Rob Head (14:58):
 Right.
 
 Kevin Genus (15:00):
-Yeah. Go figure. But yeah, rod is, you know, straight out of Philadelphia really. I mean, it's really cool brother. Hi. I really like Rob, Rob, cause I'm talking to you, but rod yeah, yeah.
+Yeah. Go figure. But yeah, Rod is, you know, straight out of Philadelphia really. I mean, it's really cool brother. Hi. I really like Rob, Rob, cause I'm talking to you, but rod yeah, yeah.
 
 Rob Head (15:14):
 Let's, let's talk about so you, you sort of stumble into this new career doing, doing narration, voiceover. This is not something you studied. I mean, you mentioned that you spent a year at Lewis Gregory, a radio station in South Carolina, but you hadn't, you'd studied French horn, not, not voiceover. So how did you train, how did you, how did you level up to the point where you could do these national commercials with confidence and a sense of professionalism?
@@ -157,16 +157,16 @@ Kevin Genus (17:19):
 Oh yes. Most definitely. Wow. That's why I called this lady up. And the first question she had was, how did you find my name?
 
 Rob Head (17:29):
-Well, I wrote this.
+Well, I wrote this script...
 
 Kevin Genus (17:31):
 Yeah. And I told her how, and she was like, wow, I had never heard that one before.
 
 Rob Head (17:39):
-She's like, I understood this word, but I don't know what any of that, basically you found a mentor, you found a, somebody to, I wouldn't
+She's like, I understood this word, but I don't know what any of that means, basically you found a mentor, you found a, somebody to
 
 Kevin Genus (17:50):
-Say a mentor, I would say a coach. And now, now the way Marise worked back then was she gave you this horror story about the failure of going into voiceover, because, you know, Marissa is one of those people who she tells you, I don't waste your time. You don't waste my time. Right. And, you know, as long as we both understand that, great. And so I didn't call her back for a year. I was so scared after she explained to me the amount of work required. And so a year goes by and
+I wouldn't say a mentor, I would say a coach. And now, now the way Marise worked back then was she gave you this horror story about the failure of going into voiceover, because, you know, Marissa is one of those people who she tells you, I don't waste your time. You don't waste my time. Right. And, you know, as long as we both understand that, great. And so I didn't call her back for a year. I was so scared after she explained to me the amount of work required. And so a year goes by and
 
 Rob Head (18:26):
 You're, you're working during that time. Yeah. Okay.
@@ -208,19 +208,25 @@ Rob Head (22:47):
 Right. So let's talk. So it sounds to me that you committed to this career as a voiceover artist, and you found a great coach and you worked at it you were very, the story you told about finding the coach shows a lot of tenacity. So you pursued it with some vigor. So let's talk a little bit about, you know, what are some of the practices that you learned? Do you have daily practices, especially early in your career? How do you care for your instrument and, you know are the things that you're doing on the business, you know, to keep the career moving forward, like, let's talk about what, what did you learn? What did you do on a daily basis that helped you
 
 Kevin Genus (23:28):
-Move forward? Okay. So in this industry, there's really in my opinion, well, what I'll address, what I've done to keep my instrument going, then I'll answer the other question. Yeah. initially I did all the exercises that people talked about. Maybe my mom, maybe my mom, maybe my mama made me my, all those kinds of things. Right,
+Move forward? Okay. So in this industry, there's really in my opinion, well, what I'll address, what I've done to keep my instrument going, then I'll answer the other question. Yeah. initially I did all the exercises that people talked about. Me, Mi, Ma, Mo, Mu. Me, Mi, Ma, Mo, Mu. all those kinds of things. Right,
 
 Rob Head (23:53):
-Right. Very similar to what a singer.
+Right. Very similar to what a singer
 
 Kevin Genus (23:57):
 Exactly. Like the pencil and the mouth or, or, or I, I ordered a bag of corkscrews because you hold those between your teeth and you read your copy like that, and it forces those muscles to over enunciate. And so initially it's all about this muscular development that typically, you know, any it's muscle memory, you're doing it all day. Those muscles do get tired. If you're doing it wrong, they get tired faster. So that was the initial part of what I was doing. Just the actual training of the muscles, right?
 
 Rob Head (24:41):
-Yeah, yeah. Right. Yeah.
+Of your instrument. Yeah.
 
 Kevin Genus (24:44):
-Typically I would say Amber sure. But I'm not playing an instrument any longer, but yeah, I didn't [inaudible]. Yeah, exactly. But for my voice, I had to, I had to get used to getting comfortable talking down here all the time. And it wasn't that, that I was afraid to talk down here. My voice actually changed again, in that process, it was deeper than what Merissa had heard. And so what happens is, is if I just, if I talk in this range for like, say five minutes, it'll stay this way for the rest of the day. And there are, there are some people I, I talked to and they, Oh, that's your morning voice, Kevin. No, no. My voice is a whole lot deeper than this. But so, so that was also part of the, part of the practice, you know, just getting your voice in the range that you're going to work in.
+Typically, I would say embouchure. But I'm not playing an instrument any longer, but yeah, I didn't
+
+Rob Head (24:50):
+Once a brass player, always a brass player.
+
+Kevin Genus (24:52):
+Yeah, exactly. But for my voice, I had to, I had to get used to getting comfortable talking down here all the time. And it wasn't that, that I was afraid to talk down here. My voice actually changed again, in that process, it was deeper than what Merissa had heard. And so what happens is, is if I just, if I talk in this range for like, say five minutes, it'll stay this way for the rest of the day. And there are, there are some people I, I talked to and they, Oh, that's your morning voice, Kevin. No, no. My voice is a whole lot deeper than this. But so, so that was also part of the, part of the practice, you know, just getting your voice in the range that you're going to work in.
 
 Kevin Genus (25:50):
 But then, you know, it's funny because once you, I had, I had formed all these relationships because of my phone calls, you know, incessant phone calls to people, they, the guys that were making seven figures, they were cool. I mean, if you run into people who are really doing this and they love their work, if you ask them for help, help, they share it with you, that was new for me because I was so used to the opposite. But in this particular industry, I don't know if it's this way with all of them. They're there. They're really cool about this stuff. So one of the guys told me, Kevin, you're talking louder than we work. So we always work very quietly and your voice would never get tired if you stay in this whisper in this whisper pitch, you know? And so we call this as a whisper read, you know, tonight eight, seven central, you know, it's that low volume. Right. And that has its caveats too, because you have to get right up on the microphone to do that, which brings us to the next training process, which is Mike technique.
@@ -280,7 +286,7 @@ Rob Head (33:17):
 You mean like the physical activity or something more mental?
 
 Kevin Genus (33:19):
-No, it was like unto a prayer. Yeah. It might be a mantra, but well, what he would do before every take, he would get quiet and he would go through this process and then he would do his delivery. Here it is. And so that's one of the things that I borrowed from how, you know you know, I will say I, as a high, I'll say my remover, removers of difficulties. And so I do that before each take silently to myself. And so my booth becomes not just, you know, I'm not just going in here to do work. It's, it's more or less my own, a place for worship as well. Yeah.
+No, it was like unto a prayer. Yeah. It might be a mantra, but well, what he would do before every take, he would get quiet and he would go through this process and then he would do his delivery. Here it is. And so that's one of the things that I borrowed from how, you know you know, I will say I, as a Bahá'í, I'll say my removers of difficulties. And so I do that before each take silently to myself. And so my booth becomes not just, you know, I'm not just going in here to do work. It's, it's more or less my own, a place for worship as well. Yeah.
 
 Rob Head (34:05):
 Yeah. You know, this is, this is fascinating because I think it gets to the heart of creativity. It's like, there's a mysterious process happening here. We are connecting to something that's a little bit bigger than us, or maybe infinitely bigger than us. And and, and it's impossible to separate creativity from that, that mysterious sense of human spirituality.
