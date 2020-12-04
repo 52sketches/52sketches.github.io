@@ -276,4 +276,4 @@ Arden Leigh  31:44
 Absolutely. It's my pleasure. Thank you so much.
 
 Damien Burke  31:51
-The 52 sketches podcast is a product of 52 sketches, makers of earlywords.io, daily, private, stream-of-consciousness writing, to clear your mind and unlock your creativity.
+The 52 sketches podcast is a product of 52 sketches, makers of [earlywords.io](https://earlywords.io), daily, private, stream-of-consciousness writing, to clear your mind and unlock your creativity.

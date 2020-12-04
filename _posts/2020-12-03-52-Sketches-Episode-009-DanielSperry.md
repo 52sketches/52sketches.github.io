@@ -230,7 +230,7 @@ Rob Head  33:10
 Coming up, original music by Daniel Sperry.
 
 Damien Burke  33:18
-The 52 sketches podcast is a product of 52 sketches, makers of earlywords.io, daily, private, stream-of-consciousness writing, to clear your mind and unlock your creativity.
+The 52 sketches podcast is a product of 52 sketches, makers of [earlywords.io](https://earlywords.io), daily, private, stream-of-consciousness writing, to clear your mind and unlock your creativity.
 
 Rob Head  33:41
 Now, deep inside and over by our guest, Daniel Sperry

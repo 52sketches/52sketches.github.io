@@ -290,4 +290,4 @@ Rob Head  31:50
 You're welcome.
 
 Damien Burke  31:59
-The 52 sketches podcast is a product of 52 sketches, makers of earlywords.io, daily, private, stream-of-consciousness writing, to clear your mind and unlock your creativity.
+The 52 sketches podcast is a product of 52 sketches, makers of [earlywords.io](https://earlywords.io), daily, private, stream-of-consciousness writing, to clear your mind and unlock your creativity.

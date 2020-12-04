@@ -264,7 +264,7 @@ Armando Posada  35:52
 Well, listen, thank you for the opportunity. I appreciate the platform and you take care of you to
 
 Damien Burke  36:11
-The 52 sketches podcast is a product of 52 sketches, makers of earlywords.io, daily, private, stream-of-consciousness writing, to clear your mind and unlock your creativity.
+The 52 sketches podcast is a product of 52 sketches, makers of [earlywords.io](https://earlywords.io), daily, private, stream-of-consciousness writing, to clear your mind and unlock your creativity.
 
 Rob Head  36:33
 Now, Ava Storm, we need the night, co written and produced by our guest, Armando Posada.
