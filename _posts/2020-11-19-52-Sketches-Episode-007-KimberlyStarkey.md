@@ -18,6 +18,8 @@ Musician and composer Kimberly StarKey, the Rogue Pianist, talks about chasing s
 - [The Rogue Pianist on YouTube](https://www.youtube.com/channel/UCpfC4Uvuy_P1uVehPChKRmA){:target="_blank"}
 - [The Fire Within, with Jennifer Thomas](https://www.youtube.com/watch?v=sSSj0nTsytg){:target="_blank"}
 - [Big Magic: Creative Living Beyond Fear, by Elizabeth Gilbert](https://www.amazon.com/Big-Magic-Creative-Living-Beyond/dp/1594634726){:target="_blank"}
+- [Dr. Eduard Zilberkant](http://www.eduardzilberkant.com/){:target="_blank"}
+- [Dr. Alexander Tutunov](http://tutunov.com/){:target="_blank"}
 
 ![52 Sketches episode 7 — Kimberly StarKey](/images/Ep7-Kimberly-StarKey.png)
 
@@ -155,10 +157,10 @@ Rob Head  14:08
 Uh huh. Did you have any particular mentors or people that you you felt like was were really influential in your development? Well, definitely
 
 Kimberly StarKey  14:18
-my piano instructor, Dr. zilber Kant, he was, you know, from Russia and was like a child prodigy and he was just the biggest influence because he was so incredibly passionate about music, that I was just like, enthralled I never I never knew how passionate classical music could be. I always thought it was just like did did it you know, like this, like, proper music that you play while you're drinking your tea and a fancy little right um, you know, restaurant, but this was like full blown passion like I had never seen it. And so that's where I fell in love with the Romantic era. Yes, the Romantic era.
+my piano instructor, Dr. Zilberkant, he was, you know, from Russia and was like a child prodigy and he was just the biggest influence because he was so incredibly passionate about music, that I was just like, enthralled I never I never knew how passionate classical music could be. I always thought it was just like did did it you know, like this, like, proper music that you play while you're drinking your tea and a fancy little right um, you know, restaurant, but this was like full blown passion like I had never seen it. And so that's where I fell in love with the Romantic era. Yes, the Romantic era.
 
 Rob Head  14:58
-Yeah, yeah. Wow. And and if I remember correctly, another Russian prodigy, Dr. tooten off who's who's local here? Is somebody that you studied with later? Is that right?
+Yeah, yeah. Wow. And and if I remember correctly, another Russian prodigy, Dr. Tutunov, who's local here, is somebody that you studied with later? Is that right?
 
 Kimberly StarKey  15:13
 I did. Yes. I got to work with him as well. I came back from Alaska because I got into a silly relationship with a boy.
@@ -167,10 +169,10 @@ Rob Head  15:24
 It's always it's always a relationship. And yeah, yeah, it was a completely different place.
 
 Kimberly StarKey  15:30
-Yeah, exactly. And it ended like, you know, like any big symphonic workshop. So I moved back to Ashland and then got to work with tooten off. Yes. For about I want to say a year at the most and then, um, yeah, I took a really long time to graduate, but I did get to work with him for about a year.
+Yeah, exactly. And it ended like, you know, like any big symphonic workshop. So I moved back to Ashland and then got to work with Tutunov. Yes. For about I want to say a year at the most and then, um, yeah, I took a really long time to graduate, but I did get to work with him for about a year.
 
 Rob Head  15:48
-One of the things that this story reminds me of is that you I think it was last year you released the a song called she's no Beethoven. And and I think there's a story behind it from this time period in your life. Oh, yes. Yeah. Yeah. So what was that about? Well,
+One of the things that this story reminds me of is that you I think it was last year you released the a song called "She's No Beethoven" and and I think there's a story behind it from this time period in your life. Oh, yes. Yeah. Yeah. So what was that about? Well,
 
 Kimberly StarKey  16:05
 so that was, um, you know, one of the schools I had gone to, I won't say which one? One of the, one of the schools and I think these people
@@ -197,10 +199,10 @@ Rob Head  18:54
 Yeah. Yeah. Well, it's inspiring the way you took that experience. And were able to say, Okay, I'm going to use that as as material as fuel for my own Yeah. And literally for your own for expressing the your own unique musical voice, which is, which is a cool way to approach that. So. So did you arrive, you know, pretty quickly at something resembling a professional career? Did you? What did you do to survive after you finished schooling and and your studies?
 
 Kimberly StarKey  19:29
-Yeah, so um, I started by teaching like, I jumped into teaching because it was a way to make an income by doing something that I love, you know, all day, which is like playing the piano and teaching people how to play the piano, and I love people. So there was a lot of good about that. I also started a company for churches, and doing church music because that was another way to make an income as a musician. Yeah. And which was very interesting because I don't really sight read and yet was the accompanist for a choir. So I just had to, like, you know, I just did the best I could. And I mean, I was actually, you know, I was like, Wow, I can't believe I'm doing this I'm company and choir. Um, but I would use a mixture of reading the music and also like, improvising and just also going like, what do I want this to sound like for the choir? How do I want to support the choir? And I would do it that way. Right? Um, so yeah, I did those two things. I jumped into that. You know, I did that for about a decade. And I I don't know if there's something to a decade like, you know, there's something about spending 10 years doing something you kind of go, I think I
+Yeah, so um, I started by teaching like, I jumped into teaching because it was a way to make an income by doing something that I love, you know, all day, which is like playing the piano and teaching people how to play the piano, and I love people. So there was a lot of good about that. I also started accompanying for churches, and doing church music because that was another way to make an income as a musician. Yeah. And which was very interesting because I don't really sight read and yet was the accompanist for a choir. So I just had to, like, you know, I just did the best I could. And I mean, I was actually, you know, I was like, Wow, I can't believe I'm doing this I'm company and choir. Um, but I would use a mixture of reading the music and also like, improvising and just also going like, what do I want this to sound like for the choir? How do I want to support the choir? And I would do it that way. Right? Um, so yeah, I did those two things. I jumped into that. You know, I did that for about a decade. And I I don't know if there's something to a decade like, you know, there's something about spending 10 years doing something you kind of go, I think I
 
 Rob Head  20:39
-know, it's funny. Yeah, my, my, my grandmother, Laila head was a piano teacher and church accompanist for like, 70 years. And that that was her legacy. And she just, she just kept going. Wow. And and, yeah, in fact, you know, to this day, her, her legacy is that she bought the piano that's sitting in my studio right now. For my father who passed it down to me. So yeah, it is a path but musicians in the previous generations that was it was one of the paths that you can take to, you know, make a dependable living was teaching course. And and then yeah, accompanying, especially in faith communities, and yeah, but so after 10 years of that, you were like, okay, I want to do something else.
+know, it's funny. Yeah, my, my, my grandmother, Lila head was a piano teacher and church accompanist for like, 70 years. And that that was her legacy. And she just, she just kept going. Wow. And and, yeah, in fact, you know, to this day, her, her legacy is that she bought the piano that's sitting in my studio right now. For my father who passed it down to me. So yeah, it is a path that musicians in the previous generations that was it was one of the paths that you can take to, you know, make a dependable living was teaching, of course. And and then yeah, accompanying, especially in faith communities, and yeah, but so after 10 years of that, you were like, okay, I want to do something else.
 
 Kimberly StarKey  21:27
 Yeah, I, you know,
@@ -208,7 +210,7 @@ Yeah, I, you know,
 I always said, If church was on a different day than Sunday, I would do this forever. No one. No one changed the day of church.
 
 Rob Head  21:39
-Yeah. Maybe you needed to find the Seventh Day Adventist Church, or
+Yeah. Maybe you needed to find a Seventh Day Adventist Church, or
 
 Kimberly StarKey  21:45
 apparently. Oh, see, I don't even I didn't even think about that. That's, I should have done that. But no, um, yeah. Because the, the issue that I faced was that I would, you know, start teaching on Mondays and then I would teach all week, and I would have, you know, choir rehearsals and things like that. And then then when Friday came around, and just like, that's the moment that I really, my brain needed a break to just like, you know, not worry, and just, but then I would immediately start worrying when Friday came around, because Sunday was coming up and right. Okay, do I know my music? Do I know which hymns I'm playing? Am I supposed to be playing? You know, special music? Do I need to rehearse with anyone? Like, what do I need to do? And then like, Saturday, I would become more preoccupied with it. And then Sunday, I would be I would do it. And then afterwards, after church, I'd be like, whoo, I'm done. Like I've done. I've accomplished my week. And then Sunday night, I would do like nothing after church, I would just like, probably just eat pizza and whatever, like, and then, and then Monday would come and it's like, boom, back.
@@ -235,7 +237,7 @@ Rob Head  23:57
 Yeah, that was the that was the message I always got from my father was, you know, all right. Yeah. See if you could play this, you know, anyway. Yeah. Very cool. So, so Okay, so what happened near the end of that, it sounds like you were ready to do something else.
 
 Kimberly StarKey  24:12
-Yeah. Okay. So then, you know, the end of that I actually went through like a divorce. Not like a divorce. It was a divorce. Right? Um, yeah. Literally, to take serious things and, and somehow laugh at them but anywho so yeah, the end of that it was really all about, you know, I had this dog. You probably saw my Facebook post this morning. The lane Her name was and she was Yeah, I got her by accident. People don't understand how you can get a dog by accident but I
+Yeah. Okay. So then, you know, the end of that I actually went through like a divorce. Not like a divorce. It was a divorce. Right? Um, yeah. Literally, to take serious things and, and somehow laugh at them but anywho so yeah, the end of that it was really all about, you know, I had this dog. You probably saw my Facebook post this morning. Elaine her name was and she was Yeah, I got her by accident. People don't understand how you can get a dog by accident but I
 
 Rob Head  24:47
 did get her by accident to get a dog but I did. She is living here now. And here
@@ -247,34 +249,34 @@ Unknown Speaker  25:40
 do you want to apply like, are the papers,
 
 Kimberly StarKey  25:43
-and they literally gave them to me, and I'm like, Oh, thanks. And I thought that I was gonna be able to walk out and just fill them out, like, well, I wasn't even gonna fill them out at all. I was gonna walk out I didn't want like, hurt their feelings. So you know. And then she like, gave me a pen and then a clipboard and stood there and watched me. and was like, you can sit right there at that desk. And so I'm like, oh, gosh, so then I filled it out thinking, Okay, in my mind, I'm like, I'll just give him the adoption papers. And then when they go to call me, and because I'm sure they'll have to review it, and like, talk to people, when they call me. I'll just tell them I'm sorry, something came up, and I can't actually have a dog anymore. But I was too embarrassed to like change my mind right then. So I just did it, gave her the thing. And she just like, took three seconds and looked at it and was like, Okay, look, okay, that'll
+and they literally gave them to me, and I'm like, Oh, thanks. And I thought that I was gonna be able to walk out and just fill them out, like, well, I wasn't even gonna fill them out at all. I was gonna walk out I didn't want like, hurt their feelings. So you know. And then she like, gave me a pen and then a clipboard and stood there and watched me. and was like, you can sit right there at that desk. And so I'm like, oh, gosh, so then I filled it out thinking, Okay, in my mind, I'm like, I'll just give him the adoption papers. And then when they go to call me, and because I'm sure they'll have to review it, and like, talk to people, when they call me. I'll just tell them I'm sorry, something came up, and I can't actually have a dog anymore. But I was too embarrassed to like change my mind right then. So I just did it, gave her the thing. And she just like, took three seconds and looked at it and was like, Okay, look, okay, that'll be $80.
 
 Rob Head  26:24
-be $80. Here's your best friend.
+Here's your new best friend.
 
 Kimberly StarKey  26:27
 Yeah. And then, and then I was like, I don't have $80. And I looked at my sister, and she's just handed me her credit card. I'm like, Okay. We got her. Yeah. But anyway, yeah, the whole point of that is that she really having that dog, I was in no place really to have a dog. But having that little dog was like having a heart on the outside of my body. And I could see if something wasn't good for me, if I was really stressed out, it would affect her. And the more happy the more happy that I was, the happier she was. And so that just started a whole thing of really, really assessing my life, and looking at what really actually brings me joy, and what what is a time to let go of. And so I ended up letting go of a lot of things. And it has been quite a crazy few years to say the least. But I let go over relationship I let go of where I live, I
 
 Rob Head  27:19
-teach and
+teaching
 
 Kimberly StarKey  27:21
 I let go of teaching. Yep, I let go of accompanying
 
 Rob Head  27:24
-I want to fast forward a little bit you you recorded several albums of your original music, to, to, you know, a not unreasonable level of acclaim. And you you got a lot of attention and some, you know, airplay and streams and all this stuff started happening for you. And and I know that you eventually started collaborating with various other artists and I want to talk about one in particular, you, you co wrote the fire within which is a contemporary double Piano Concerto with Jennifer Thomas, and, and that's it really well it did like debuted in the billboard classical music charts. And, you know, it did very, very well song of the classical Song of the Year and the 2021 International Music and Entertainment Awards. It did great. So, wow. Tell us about that relationship and how that piece eventually came to be. And I would love to hear about how it came to be performed. Yeah, is that the intention is beginning.
+I want to fast forward a little bit you you recorded several albums of your original music, to, to, you know, a not unreasonable level of acclaim. And you you got a lot of attention and some, you know, airplay and streams and all this stuff started happening for you. And and I know that you eventually started collaborating with various other artists and I want to talk about one in particular, you, you co wrote the fire within which is a contemporary double Piano Concerto with Jennifer Thomas, and, and that's it really well it did like debuted in the billboard classical music charts. And, you know, it did very, very well song of the classical Song of the Year and the 2020 International Music and Entertainment Awards. It did great. So, wow. Tell us about that relationship and how that piece eventually came to be. And I would love to hear about how it came to be performed. Yeah, is that the intention is beginning?
 
 Kimberly StarKey  28:27
 Yeah. Um, so so. So there's this word. It's called dialectic. And there's this form of therapy called dialectic behavioral therapy. And it's based on the premise that two opposites that seem mutually exclusive of each other can both be true. And so my whole music career has really been a dialectic where it's, it's definitely been filled with struggle and like, you know, just poverty and like, you know, just like Bankston, like, why isn't it you know, and struggle, all that. And on the on the flip side, it has been so amazing. And this is one of those projects that is just like art, I have to pinch myself like, is this really real? And, you know, like, a little background on that is that like, I was just this this, you know, nerdy internet fan of this girl, Jennifer Thomas for many, many years, probably for 10 years for the entire time that I was going to school and then
 
 Rob Head  29:24
-yeah, you're like fan girls. Yeah,
+yeah, you're like a fan girl. Yeah,
 
 Kimberly StarKey  29:26
 I was a fan girl. And I was always like, gosh, if only I could you know, like this. She's doing what I exactly want to do, but in my own way, of course and, and so yeah, I ended up having a late night binge of Ellen DeGeneres videos and Jennifer Thomas and and like got wild you know, I mean, just like thinking you know, just in my
 
 Rob Head  29:45
-sort of dreamy range.
+sort of dreaming.
 
 Kimberly StarKey  29:46
 Yeah, dreaming and I, I'm like, you know what, I'm going to be really wild here. I'm going to email her or like, you know, reach out in some way. So I reached out and ended up you know, just all skip the all the details, but basically She ended up being this really nice person, she found out I played the piano and she listened to my music and she lo and behold, loved it. And we became like best friends where we're like, pretty much we talked every day now and why? Yep. And we, and then she eventually, and I didn't have any expectations, you know, right, um, of anything. I in fact, when we first like connected on the internet, I was like, Can I come up this weekend to your house and play the piano for you? Because I was determined. I was like, I just want to I want her to hear my music. And she said, No, because she's like, thinking probably this crazy girl. Yeah, like it's gonna be a stalker or something.
@@ -372,19 +374,19 @@ Kimberly StarKey  39:37
 Yeah, exactly. Like if someone's like what you do yesterday, I'm like, I have no
 
 Rob Head  39:42
-idea. Um, was yesterday Blair's day? Yeah,
+idea. Um, was yesterday Blursday? Yeah,
 
 Kimberly StarKey  39:46
 yeah, I have no idea. I have a very a lot of variety in my life. I'm able to be there for family members who are who are ill and and I'm able to kind of do something Like caregiving, which actually is so crucial to my music because it connects me with people who are like,
 
 Rob Head  40:08
-your loved ones going back to your you know your origin story. Yeah,
+your loved ones, going back to your you know your origin story. Yeah,
 
 Kimberly StarKey  40:12
-exactly. And and it's like, it just shows you the just the, the value of life and the life. Like really? Yeah, that just
+exactly. And and it's like, it just shows you the just the, the value of life and when life can go away like really... Yeah, that just
 
 Rob Head  40:27
-life agility and righteousness.
+fragility and preciousness
 
 Kimberly StarKey  40:28
 Thank you. Thank you. Yeah, yeah. And so that that inspires my music. So I have that. And then I, I have my dogs have for me like, as far as what I do, like, the main thing I do is just like setting myself up to be in a positive frame of mind. And so right now I'm working on building a website, and I'm working on like, after this call, I'm going to be finishing composing for the Flight of the Bumblebee, which is we're doing our own arrangement, Jennifer and I have the Flight of the Bumblebee. And I'm so excited for that. And so and then I've got another
@@ -437,4 +439,4 @@ Unknown Speaker  45:07
 The 52 sketches podcast is a product of 52 scanner, makers of early words that I have daily stream of consciousness writing to clear your mind and unlocking your creativity.
 
 Rob Head  45:29
-taking us out the latest release from the road pianist quarantine
+taking us out—the latest release from the Rogue Pianist: "Quarantine"
