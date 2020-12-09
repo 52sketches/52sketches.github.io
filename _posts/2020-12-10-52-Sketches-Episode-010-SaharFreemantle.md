@@ -22,6 +22,8 @@ and business in the face of a pandemic.
 - [Landmark Forum](https://landmarkforum.com){:target="_blank"}
 - [The Bahá’í Faith](https://www.bahai.org){:target="_blank"}
 
+![52 Sketches episode 10 — Sahar Freemantle](/images/Ep10-Sahar-Freemantle.png)
+
 ## Transcript
 
 Rob Head  0:01
@@ -262,4 +264,4 @@ Rob Head  41:23
 You're welcome.
 
 Damien Burke  41:35
-The 52 sketches podcast is a product of 52 sketch, makers of early words.io. Daily price, stream of consciousness writing to clear mind and unlock your creativity.
+The 52 Sketches podcast is a product of 52 Sketches, makers of [earlywords.io](https://earlywords.io). Daily, private, stream-of-consciousness writing to clear mind and unlock your creativity.
