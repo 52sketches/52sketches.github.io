@@ -18,10 +18,10 @@ maintaining inspiration, overcoming limiting beliefs, and transitioning her art
 and business in the face of a pandemic.
 
 - [Sahar Millinery](https://www.saharmillinery.co.uk){:target="_blank"}
-- [Ascot](https://www.ascot.co.uk){:target="_blank"}
 - [Edinburgh College of Art](https://www.eca.ed.ac.uk/){:target="_blank"}
-- [Landmark Forum](https://landmarkforum.com){:target="_blank"}
+- [Ascot](https://www.ascot.co.uk){:target="_blank"}
 - [The Bahá’í Faith](https://www.bahai.org){:target="_blank"}
+- [Landmark Forum](https://landmarkforum.com){:target="_blank"}
 
 ![52 Sketches episode 10 — Sahar Freemantle](/images/Ep10-Sahar-Freemantle.png)
 
