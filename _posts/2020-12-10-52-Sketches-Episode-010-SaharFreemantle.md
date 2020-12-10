@@ -19,6 +19,7 @@ and business in the face of a pandemic.
 
 - [Sahar Millinery](https://www.saharmillinery.co.uk){:target="_blank"}
 - [Ascot](https://www.ascot.co.uk){:target="_blank"}
+- [Edinburgh College of Art](https://www.eca.ed.ac.uk/){:target="_blank"}
 - [Landmark Forum](https://landmarkforum.com){:target="_blank"}
 - [The Bahá’í Faith](https://www.bahai.org){:target="_blank"}
 
@@ -27,16 +28,16 @@ and business in the face of a pandemic.
 ## Transcript
 
 Rob Head  0:01
-52 sketches podcast episode 10 milliner, Sahar Freemantle.
+The 52 Sketches podcast, episode 10: milliner Sahar Freemantle.
 
 Jennifer Head  0:09
-Welcome to 52 sketches podcast about creativity and creative practices. Here's your host Rob head.
+Welcome to 52 Sketches—a podcast about creativity and creative practices. Here's your host, Rob head.
 
 Rob Head  0:20
-Welcome to the 52 Sketches Podcast. I'm your host Rob Head. We are here again to talk about living a creative life, creativity practices, habits and strategies for making wonderful things and experiences. In this episode, I am so pleased to welcome Sahar Freemantle, Sahar Freemantle is an award winning milliner based in London. The purpose of her brand Sahar Millenary, is to create beauty and inspire creativity. She specializes in handmade hats for women hats, which by all accounts have great shapes compliment the wear and are comfortable to wear. bespoke pieces might even tell stories of the where in the details. Sahar also teaches workshops on the craft of millenary as well as her newest adventure, the milliners drawing room, which are hat focused life drawing classes. Both of these ventures aim to bring out creativity from participants. So Sahara's audience are not just passive spectators or wearers, but intrinsically involved in the creation process. Sahar is a Queen Elizabeth scholarship trust award winner and has a degree in performance costume from Edinburg College of Art. So her millenary also has a sub brand called Ugly Lovely, which is a playful exploration at what beauty is taking inspiration from nature and surrealism. Sahar's work has been exhibited at the VNA featured in The Guardian, the independent and evening standards list of best Ascot hats on screen in Downton Abbey. And on celebrities such as Ellie Goulding. Paloma faith, Katy Perry Celeste Charlie Howard, Georgina Campbell, Victoria Baker Harper and immodesty. blaize Sahar's work has been shown in Japan, Portugal, Mali, Berlin, and France. So welcome, Sahar.
+Welcome to the 52 Sketches podcast. I'm your host, Rob Head. We are here again to talk about living a creative life, creativity practices, habits and strategies for making wonderful things and experiences. In this episode, I am so pleased to welcome Sahar Freemantle. Sahar Freemantle is an award-winning milliner based in London. The purpose of her brand Sahar Millenary, is to create beauty and inspire creativity. She specializes in handmade hats for women, which by all accounts, have great shapes that complement the wearer and are comfortable to wear. Bespoke pieces might even tell stories of the wearer in the details. Sahar also teaches workshops on the craft of millenary as well as her newest adventure, the milliners drawing room, which are hat-focused life drawing classes. Both of these ventures aim to bring out creativity from participants. So Sahar's audience are not just passive spectators or wearers, but intrinsically involved in the creation process. Sahar is a Queen Elizabeth Scholarship Trust award-winner and has a degree in performance costume from Edinburg College of Art. Sahar Millenary also has a sub-brand called Ugly Lovely, which is a playful exploration of what beauty is, taking inspiration from nature and surrealism. Sahar's work has been exhibited at the VNA; featured in The Guardian, the independent, and evening standards list of best Ascot hats; on-screen in Downton Abbey; and on celebrities such as Ellie Goulding, Paloma Faith, Katy Perry, Celeste, Charli Howard, Georgina Campbell, Victoria Baker-Harber and Immodesty Blaize. Sahar's work has been shown in Japan, Portugal, Mali, Berlin, and France. So welcome, Sahar.
 
 Sahar Freemantle  2:12
-Thank you, Rob. But all sounded so wonderful in your lovely American accent.
+Thank you, Rob. That all sounded so wonderful in your lovely American accent.
 
 Rob Head  2:19
 Likewise, well, we can we can have a mutual admiration celebration here. Because I just love to hear your I assume what would be described as a London accent? Yeah.
@@ -45,22 +46,22 @@ Sahar Freemantle  2:30
 Oh, I didn't know I wasn't brought up in London. So I have more of a kind of like, middle of England kind of accent. Yeah, I would say the London accent is a bit more rough than
 
 Rob Head  2:46
-I say. Wonderful. It's so great to have our first international guest on the podcast. You are living and working in London. Yeah,
+I see. Wonderful. It's so great to have our first international guest on the podcast. You are living and working in London. Yeah?
 
 Sahar Freemantle  2:53
-that's right. Yes, I am. may say whatever I say about the, you know, the London accent or whatever. But actually, I I love London. I love being here. I've been here for several years. And yeah, I don't think I ever want to leave here. I think it's an amazing city.
+That's right. Yes, I am. I may say whatever I say about the, you know, the London accent or whatever. But actually, I I love London. I love being here. I've been here for several years. And yeah, I don't think I ever want to leave here. I think it's an amazing city.
 
 Rob Head  3:08
-Wonderful. So, you know, the first thing that occurs to me as I'm speaking to you is how culturally specific some arts are so for example, the word milliner was not in my vocabulary until I was researching your work. You know, we as Americans, we might use the word haberdasher if we're trying to sound especially British. But, so tell us about what what is a milliner.
+Wonderful. So, you know, the first thing that occurs to me as I'm speaking to you is how culturally specific some arts are so for example, the word milliner was not in my vocabulary until I was researching your work. You know, we as Americans, we might use the word haberdasher if we're trying to sound especially British. But, so tell us about what what is a milliner?
 
 Sahar Freemantle  3:35
-A Milena is a hat maker. So yeah, just somebody who makes hats and headwear. And you can use the word Hatter, but that's not very often used. I think that's more used to describe people who make men's hats. Right? So yes, I'm a millionaire. And what that means is I make hats and headpieces. Mostly for women.
+A milliner is a hat maker. So yeah, just somebody who makes hats and headwear. And you can use the word Hatter, but that's not very often used. I think that's more used to describe people who make men's hats. Right? So yes, I'm a millionaire. And what that means is I make hats and headpieces. Mostly for women.
 
 Rob Head  3:58
 Mostly for women. Right? Yeah. So yeah, the word Hatter over here anyway, is usually preceded by the word mad. So
 
-Unknown Speaker  4:05
-yeah, I get that.
+Sahar Freemantle  4:05
+yeah, I get that a lot.
 
 Rob Head  4:09
 Yeah, let's talk about your backstory a little bit. How did you end up here? So let's, let's talk about maybe your childhood, your upbringing? Did you have creative things that you were into, as you were growing up? You know, did you sing or dance or play in plays? Or were you you know, selling dresses or whatever, when you were a young one? What were you involved in?
@@ -71,11 +72,11 @@ Um, art and creativity were very much encouraged in my household. I'd say the ki
 Rob Head  5:19
 Huh. Did you decide at some point that I'm going to pursue this academically? You know, how did you end up with your degree?
 
-Unknown Speaker  5:28
+Sahar Freemantle  5:28
 Yes,
 
 Rob Head  5:28
-formance, costuming?
+Performance costuming?
 
 Sahar Freemantle  5:30
 Yeah, performance costumes. So I didn't really know what I wanted to do. And I just was looking through all of the, you know, university, prospectuses. And it was just so like, I kind of left it last minute, as usual, because I was just like, I don't know, like, I'm not amazing at anything, you know, in my school kind of results were, they were fine, you know, but I wasn't. I didn't excel in any one area, including arts. But my parents were just always, because they, they could just see that. In my spare time. I was always just being creative. So they definitely encouraged me to go to art college. So in England, we do what's called a foundation course where you just do a foundation course for a year and you just try out a whole bunch of stuff. And so yeah, I did kind of sculpture, I did textiles. And then when I was looking through the prospectuses, I saw a photograph of this Victorian costume, which was all made from leather. And it was just unlike anything I've seen before. And I was like, what's that I want to whatever this person did to study that to make that I that's what I want to do. And I looked and it was like, okay, costume. Wow, I didn't even know, you could do a degree in that, like, I hadn't even thought about it wasn't even on my radar. And I think at schools, you know, I don't know what it's like over there. But over here, you know, the career advice is always quite minimal. You don't realize that there's, you know, and even now, I meet people with just really specific, really nice jobs. And it's just like, yeah, okay, that's, that's the job. And they've, they've either got the job, or they've created it, they've carved it for them for themselves, you know? And, yeah, so I chose costume design. And there were not very many places in the country that offered it. But Edinburgh up in Scotland, the capital of Scotland, was one of the places and I had never been there before. But I'd heard it was a pretty cool place. So yeah, I didn't sort of give myself very many choices, particularly because I just knew that Edinburgh was a cool place. And so I put it down. And yeah, I went there. So that's what I did my three year ba honors degree in Edinburgh, at the art college, doing performance costume.
@@ -137,7 +138,7 @@ Yeah, yeah. And now I do the same with with people I have interns and work exper
 Rob Head  14:35
 Yeah. And it really emphasizes the fact that every art has this sort of lineage skills being passed, you know, from each each generation down the line and you know, each generation brings something new but but is also dependent on the all of the work all the way up the lineage right. Back to whenever, you know, yeah, you started at some point you're making King hats, and you're having some financial success? Yeah.
 
-Unknown Speaker  15:04
+Sahar Freemantle  15:04
 Yeah.
 
 Rob Head  15:05
@@ -156,13 +157,13 @@ Rob Head  22:05
 right. And that that's the Yeah, that's the thing about any kind of practice that is not for the short term benefit, right, for the short term profit, right, it still has this long term growth aspect to it, it really, you know, it comes back to finding ways of balancing our lives, ways of structuring our lives, so that we have time for that, I really appreciate you mentioning that you've wrote it out, you know, I'm dedicating this day of the week, or whatever it is, I'm much more familiar with the performing arts, and there's, you know, like a musician needs to practice their instrument, you know, really seriously every day and, or an actor, you know, doing vocal exercises or all the things. You mentioned, the learning aspects, but are there other things that you do to keep yourself clear headed and creative? that you do on a, you know, regular basis? You mentioned that setting aside a day for learning new things.
 
 Sahar Freemantle  23:07
-Mm hmm. Yeah. And which I'm not very good at, I'm not very good at, at the moment, like, making sure that I, myself, you know, without being forced to, you know, kind of do this lesson and that lesson and sit down, because, because that's difficult, right? It's like, the, the deliberate practice is, is tough going, like, that's not the fun part. You know, for me, the fun part is, like, when I get just an influx of desire designs, and I just want to, I like design, and I'm like, Oh, we can do that. We do that. All right, you know, and then it's just like, that's kind of the passionate part. But you know, for me sitting and like, following instructions of like, particular steps or whatever, like, you know, it's like, deliberate practice isn't, I don't think it's meant to be fun. It's so it's definitely not meant to be easy, but it's completely necessary to become experts in our field. So that's kind of the Yeah, it's a dedication. And actually, what I found is, so I said about having interns and work experience people. So I've got a lovely girl with me at the moment in the studio. And she, you know, is what's helping me is for me to say, let's learn this together. And so we can both sit down and learn something new. And that is great for her because she's getting all these new skills for free. And it's great for me, because it encourages me to actually, you know, go down that route and to learn stuff myself, and to be humble about that and just kind of go, yeah, I might have been doing this for 10 years, but there's still so much I don't know, right? continuous growth.
+Mm hmm. Yeah. And which I'm not very good at, I'm not very good at, at the moment, like, making sure that I, myself, you know, without being forced to, you know, kind of do this lesson and that lesson and sit down, because, because that's difficult, right? It's like, the, the deliberate practice is, is tough going, like, that's not the fun part. You know, for me, the fun part is, like, when I get just an influx of desire designs, and I just want to, I like design, and I'm like, Oh, we can do that. We do that. All right, you know, and then it's just like, that's kind of the passionate part. But you know, for me sitting and like, following instructions of like, particular steps or whatever, like, you know, it's like, deliberate practice isn't, I don't think it's meant to be fun. It's so it's definitely not meant to be easy, but it's completely necessary to become experts in our field. So that's kind of the Yeah, it's a dedication. And actually, what I found is, so I said about having interns and work experience people. So I've got a lovely girl with me at the moment in the studio. And she, you know, is what's helping me is for me to say, let's learn this together. And so we can both sit down and learn something new. And that is great for her because she's getting all these new skills for free. And it's great for me, because it encourages me to actually, you know, go down that route and to learn stuff myself, and to be humble about that and just kind of go, yeah, I might have been doing this for 10 years, but there's still so much I don't know, right?
 
-Unknown Speaker  24:43
-Yeah.
+Rob Head  24:43
+Continuous growth. Yeah.
 
 Sahar Freemantle  24:45
-So there's that but then there's, I guess, on a kind of daily practice. Yeah, I mean, I get I do start every morning with a kind of very just simple practice of simple yoga which then goes into kind like reading some of the high ratings saying my prayers, and sort of recently started to do a little bit of kind of creative visualization, meditation, sort of where I, you know, just I'm kind of new to it, but I sort of pretty much just sit there and imagine stuff I want. But I try and design my life, you know, like, I've sort of started to get into into that into that practice. Yeah, I think we can be pretty powerful in that way.
+So there's that but then there's, I guess, on a kind of daily practice. Yeah, I mean, I get I do start every morning with a kind of very just simple practice of simple yoga which then goes into kind like reading some of the Bahá'í writings, saying my prayers, and sort of recently started to do a little bit of kind of creative visualization, meditation, sort of where I, you know, just I'm kind of new to it, but I sort of pretty much just sit there and imagine stuff I want. But I try and design my life, you know, like, I've sort of started to get into into that into that practice. Yeah, I think we can be pretty powerful in that way.
 
 Rob Head  25:28
 Yeah, it's interesting, you mentioned, you know, visualizing things that you want. There's, of course, two ways to approach that. One is, you know, I want fancy things and whatever. And another is, I want to be, I want to create beautiful things, or I want this opportunity to manifest or whatever, you know, and I think that's part of getting to our goals is to understand what is it that I want? You know, I'm not the trappings of what I want, but what is it specifically that I want to be doing and contributing? Is that Yeah, how you experienced it?
@@ -179,7 +180,7 @@ Yeah. And I just like that. And so it's, it's just great, because it's, it's kin
 Rob Head  29:09
 It can happen for baking. It can happen for hats, right?
 
-Unknown Speaker  29:11
+Sahar Freemantle  29:11
 Yes, absolutely.
 
 Rob Head  29:15
@@ -215,7 +216,7 @@ absolutely. Yeah. So before I started doing any of the kind of personal developm
 Rob Head  33:50
 yeah, you're walking the walk in the creative path with practical feet, figuring out how do I say? Yes, to paraphrasing, yes, you know, there's it You remind me of there's there's a in my neighborhood, I live in a small town in Oregon, our primary industry is actually a Shakespeare Festival. But around the corner for me, is a forge. Which I don't know what century he thinks he lives in, but somehow he has made a living He has created a business out of a forge which sounds so you know, 16th century You know, it sometimes just by just, you know, sheer will and creative thinking you can find a way and and I've always held on to this notion that there's always a way there's always a way we're just not thinking you know, either broadly or creatively enough to fill in those gaps. Yeah, but yeah, gratulations on on that. Not just having that inspiration but carrying it through and and building your your life. Have you thank you.
 
-Unknown Speaker  35:01
+Sahar Freemantle  35:01
 Thank you.
 
 Rob Head  35:02
