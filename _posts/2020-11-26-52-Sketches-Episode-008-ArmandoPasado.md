@@ -6,6 +6,7 @@ date: 2020-11-26 10:00:00 -0800
 file: https://52sketchespodcast.s3-us-west-1.amazonaws.com/52sketches-episode-008-ArmandoPosada.mp3
 excerpt: Conversation about creativity with Rock Musician Armando Posada
 summary: Conversation about creativity with Rock Musician Armando Posada
+image: Ep8-Armando-Posada.png
 duration: "40:32" # audio length in mm:ss
 length: "77829771" # filesize in bytes
 explicit: "yes" # "yes" or "no"

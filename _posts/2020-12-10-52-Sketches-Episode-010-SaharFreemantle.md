@@ -6,6 +6,7 @@ date: 2020-12-10 10 am Pacific Time
 file: https://52sketchespodcast.s3-us-west-1.amazonaws.com/52sketches-episode-010-Sahar-Freemantle.mp3
 excerpt: Conversation about creativity with the milliner Sahar Freemantle
 summary: Conversation about creativity with the milliner Sahar Freemantle
+image: Ep10-Sahar-Freemantle.png
 duration: "42:07" # audio length in mm:ss
 length: "80854124" # filesize in bytes
 explicit: "no" # "yes" or "no"

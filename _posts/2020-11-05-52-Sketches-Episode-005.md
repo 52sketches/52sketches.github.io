@@ -6,6 +6,7 @@ date: 2020-11-05 10:00:00 -0800
 file: https://52sketchespodcast.s3-us-west-1.amazonaws.com/52sketches-episode-005-ArdenLeigh.mp3
 excerpt: Conversation about creativity with rock musician Arden Leigh
 summary: Conversation about creativity with rock musician Arden Leigh
+image: Ep5-Arden-Leigh.png
 duration: "33:06" # audio length in mm:ss
 length: "63558136" # filesize in bytes
 explicit: "no" # "yes" or "no"

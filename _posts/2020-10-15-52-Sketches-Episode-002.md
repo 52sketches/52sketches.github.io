@@ -6,6 +6,7 @@ date: 2020-10-15 10:00:00 -0700
 file: https://52sketchespodcast.s3-us-west-1.amazonaws.com/52sketches-episode-002.mp3
 excerpt: Conversation about creativity with multi-disciplinary artist Phillip Daniel
 summary: Conversation about creativity with multi-disciplinary artist Phillip Daniel
+image: Ep2-Phillip-Daniel.png
 duration: "34:37" # audio length in mm:ss
 length: "66475491" # filesize in bytes
 explicit: "no" # "yes" or "no"
