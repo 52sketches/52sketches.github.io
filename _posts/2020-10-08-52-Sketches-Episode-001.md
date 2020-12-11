@@ -6,7 +6,7 @@ date: 2020-10-08 10:00:00 -0700
 file: https://52sketchespodcast.s3-us-west-1.amazonaws.com/52sketches-episode-001.mp3
 excerpt: Conversation about creativity with voiceover artist Kevin Genus
 summary: Conversation about creativity with voiceover artist Kevin Genus
-image: Ep1-Kevin-Genus.png
+image: /images/Ep1-Kevin-Genus.png
 duration: "36:06" # audio length in mm:ss
 length: "69318450" # filesize in bytes
 explicit: "no" # "yes" or "no"

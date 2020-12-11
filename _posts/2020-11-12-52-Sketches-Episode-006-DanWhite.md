@@ -6,7 +6,7 @@ date: 2020-11-12 10:00:00 -0800
 file: https://52sketchespodcast.s3-us-west-1.amazonaws.com/52sketches-episode-006-DanWhite.mp3
 excerpt: Conversation about creativity with actor and comic Dan White
 summary: Conversation about creativity with actor and comic Dan White
-image: Ep6-Dan-White.png
+image: /images/Ep6-Dan-White.png
 duration: "30:53" # audio length in mm:ss
 length: "59302476" # filesize in bytes
 explicit: "no" # "yes" or "no"

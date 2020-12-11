@@ -6,7 +6,7 @@ date: 2020-10-22 10:00:00 -0700
 file: https://52sketchespodcast.s3-us-west-1.amazonaws.com/52sketches-episode-003.mp3
 excerpt: Conversation about creativity with theatre producer Claudia Alick
 summary: Conversation about creativity with theatre producer Claudia Alick
-image: Ep3-Claudia-Alick.png
+image: /images/Ep3-Claudia-Alick.png
 duration: "32:18" # audio length in mm:ss
 length: "62034257" # filesize in bytes
 explicit: "no" # "yes" or "no"
