@@ -1,11 +1,6 @@
 <head>
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  {%- if page.image -%}
-    <meta property="og:image" content="{{ site.url }}/images/{{ page.image }}">
-  {% else %}
-    <meta property="og:image" content="{{ site.url }}/images/podcast-cover.png">
-  {%- endif -%}
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
