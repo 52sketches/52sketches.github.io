@@ -28,6 +28,8 @@ using music today as a tool to understand ourselves and the universe.
 - [Kelly Snook's closing keynote at the Audio Developer Conference](https://audio.dev/talks/closing-keynote){:target="_blank"}
 - [Imogen Heap](http://imogenheap.com){:target="_blank"}
 
+![52 Sketches episode 11 — Kelly Snook](/images/Ep11-Kelly-Snook.png)
+
 ## Transcript
 
 Rob Head  0:01
@@ -88,7 +90,7 @@ Rob Head  10:39
 You mentioned Imogen Heap. And the first time I heard of you actually was from, I think, a mutual friend that lives in Palo Alto. And they mentioned that maybe it was Imogen Heap that lowered you away finally from NASA.
 
 Kelly Snook  10:52
-That was Yeah. 
+That was Yeah.
 
 Rob Head  10:53
 Tell us that story.
