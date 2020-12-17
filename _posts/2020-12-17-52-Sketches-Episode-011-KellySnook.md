@@ -6,6 +6,7 @@ date: 2020-12-17 10:00:00 -0800
 file: https://52sketchespodcast.s3-us-west-1.amazonaws.com/52sketches-episode-011-Kelly-Snook.mp3
 excerpt: Conversation about a creative life with music Producer and technologist Kelly Snook
 summary: Conversation about a creative life with music Producer and technologist Kelly Snook
+image: /images/Ep11-Kelly-Snook.png
 duration: "63:13" # audio length in mm:ss
 length: "121365237" # filesize in bytes
 explicit: "no" # "yes" or "no"
