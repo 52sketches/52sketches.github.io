@@ -14,13 +14,10 @@ block: "no" # "no" means is shown in itunes
 
 Music producer and technologist Kelly Snook discusses
 growing up as a musician,
-becoming a rocket scientist while being a musician,
-what does it mean to be a musician,
+becoming a rocket scientist,
 how Imogen Heap lured her away from NASA,
-how music created Kepler's three laws of motion and launched modern astronomy,
-using music as a tool to understand ourselves and the universe,
-leaving NASA to become a musician, and
-data sonification.
+how Kepler used music to launch modern astronomy, and
+using music today as a tool to understand ourselves and the universe.
 
 - [Kelly Snook's website](http://kellysnook.com){:target="blank"}
 - [Kelly Snook on the Music Gloves She Made for Imogen Heap](https://www.youtube.com/watch?v=nYZAau0kcDU){:target="blank"}
