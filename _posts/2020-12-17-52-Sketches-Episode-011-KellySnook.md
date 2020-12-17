@@ -12,7 +12,7 @@ explicit: "no" # "yes" or "no"
 block: "no" # "no" means is shown in itunes
 ---
 
-Music Producer and technologist Kelly Snook discusses
+Music producer and technologist Kelly Snook discusses
 growing up as a musician,
 becoming a rocket scientist while being a musician,
 what does it mean to be a musician,
