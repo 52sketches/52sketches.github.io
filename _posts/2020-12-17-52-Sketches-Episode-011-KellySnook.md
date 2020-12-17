@@ -19,13 +19,14 @@ how Imogen Heap lured her away from NASA,
 how Kepler used music to launch modern astronomy, and
 using music today as a tool to understand ourselves and the universe.
 
-- [Kelly Snook's website](http://kellysnook.com){:target="blank"}
-- [Kelly Snook on the Music Gloves She Made for Imogen Heap](https://www.youtube.com/watch?v=nYZAau0kcDU){:target="blank"}
-- [Kepler Concordia](http://concordia.world){:target="blank"}
-- [Concordia on Patreon](https://www.patreon.com/concordia){:target="blank"}
-- [Kelly Snook on Bandcamp](https://kellysnook.bandcamp.com/releases){:target="blank"}
-- [Imperial Mathematicians](https://imperialmathematicians.bandcamp.com/releases){:target="blank"}
-- [Kelly Snook's closing keynote at the Audio Developer Conference](https://audio.dev/talks/closing-keynote){:target="blank"}
+- [Kelly Snook's website](http://kellysnook.com){:target="_blank"}
+- [Kelly Snook on the Music Gloves She Made for Imogen Heap](https://www.youtube.com/watch?v=nYZAau0kcDU){:target="_blank"}
+- [Kepler Concordia](http://concordia.world){:target="_blank"}
+- [Concordia on Patreon](https://www.patreon.com/concordia){:target="_blank"}
+- [Kelly Snook on Bandcamp](https://kellysnook.bandcamp.com/releases){:target="_blank"}
+- [Imperial Mathematicians](https://imperialmathematicians.bandcamp.com/releases){:target="_blank"}
+- [Kelly Snook's closing keynote at the Audio Developer Conference](https://audio.dev/talks/closing-keynote){:target="_blank"}
+- [Imogen Heap](http://imogenheap.com){:target="_blank"}
 
 ## Transcript
 
