@@ -2,7 +2,7 @@
 layout: podcast
 category: podcast
 title: "Episode 12: Musician and Activist Eric Dozier"
-date: 2020-01-07 10:00:00 -0800
+date: 2021-01-07 10:00:00 -0800
 file: https://52sketchespodcast.s3-us-west-1.amazonaws.com/52sketches-episode-012-Eric-Dozier.mp3
 excerpt: Conversation about a creative life with musician and activist Eric Dozier
 summary: Conversation about a creative life with musician and activist Eric Dozier
