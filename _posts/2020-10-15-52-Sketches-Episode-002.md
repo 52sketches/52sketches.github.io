@@ -24,13 +24,13 @@ introduction to acting, his recent projects including the nation's favorite yach
 ## Transcript
 
 Rob Head  0:03
-52 sketches
+52 Sketches
 
 Jennifer Head  0:07
-Welcome to 52 sketches, a podcast about creativity and creative practices. here's your host, Rob head.
+Welcome to 52 Sketches, a podcast about creativity and creative practices. here's your host, Rob Head.
 
 Rob Head  0:16
-Welcome to the 52 sketches podcast. We are here to talk about creativity and living a creative life practices and habits, strategies for making wonderful things. Today we are going to speak with multi disciplinary artist Phillip Daniel. Yes, Phillip is an actor, a writer, a singer, songwriter, voiceover actor living and working in Los Angeles. As Philly ocean. He is the front man for yacht rock cover band Yardley crew. And among other things, he is currently writing a feature film. That's right. So well welcome, Phillip.
+Welcome to the 52 Sketches podcast. We are here to talk about creativity and living a creative life practices and habits, strategies for making wonderful things. Today we are going to speak with multi disciplinary artist Phillip Daniel. Yes, Phillip is an actor, a writer, a singer, songwriter, voiceover actor living and working in Los Angeles. As Philly ocean. He is the front man for yacht rock cover band Yardley crew. And among other things, he is currently writing a feature film. That's right. So well welcome, Phillip.
 
 Phillip Daniel  0:51
 How you doing, Robert? Glad to be here.
@@ -231,4 +231,4 @@ Rob Head  33:52
 Be well. Thanks. Take care. Bye bye.
 
 Damien Burke  34:02
-The 52 sketches podcast is a product of 52 sketches, makers of [earlywords.io](https://earlywords.io), daily, private, stream-of-consciousness writing, to clear your mind and unlock your creativity.
+The 52 Sketches podcast is a product of 52 Sketches, makers of [earlywords.io](https://earlywords.io), daily, private, stream-of-consciousness writing, to clear your mind and unlock your creativity.

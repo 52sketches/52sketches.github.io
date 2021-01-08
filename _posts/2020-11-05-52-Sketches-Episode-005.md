@@ -27,13 +27,13 @@ musician, writer, and facilitator.
 ## Transcript
 
 Rob Head  0:03
-52 sketches, Episode Five, rock musician, Arden Leigh
+52 Sketches, Episode Five, rock musician, Arden Leigh
 
 Jennifer Head  0:12
-Welcome to 52 sketches, a podcast about creativity and creative practices. here's your host, Rob head.
+Welcome to 52 Sketches, a podcast about creativity and creative practices. here's your host, Rob Head.
 
 Rob Head  0:21
-Welcome to the 52 sketches Podcast. I am your host, Rob head. We're here to talk about living a creative life, creativity, hats and practices, habits, strategies for making wonderful things. Today, I'm so pleased to welcome Arden Leigh, a performing artist and facilitator living and working in Los Angeles. Arden Leigh is the creator and facilitator of the repatterning project, of course in understanding the human operating system and repatterning trauma imprints and social conditioning in order to achieve creative freedom. She is also the creator and frontwoman of any pop rock project Arden and the wolves
+Welcome to the 52 Sketches Podcast. I am your host, Rob Head. We're here to talk about living a creative life, creativity, hats and practices, habits, strategies for making wonderful things. Today, I'm so pleased to welcome Arden Leigh, a performing artist and facilitator living and working in Los Angeles. Arden Leigh is the creator and facilitator of the repatterning project, of course in understanding the human operating system and repatterning trauma imprints and social conditioning in order to achieve creative freedom. She is also the creator and frontwoman of any pop rock project Arden and the wolves
 
 little taste of who can you trust by Arden in the wolves? Love that track is so good. So welcome, Arden. Lee,
 
@@ -277,4 +277,4 @@ Arden Leigh  31:44
 Absolutely. It's my pleasure. Thank you so much.
 
 Damien Burke  31:51
-The 52 sketches podcast is a product of 52 sketches, makers of [earlywords.io](https://earlywords.io), daily, private, stream-of-consciousness writing, to clear your mind and unlock your creativity.
+The 52 Sketches podcast is a product of 52 Sketches, makers of [earlywords.io](https://earlywords.io), daily, private, stream-of-consciousness writing, to clear your mind and unlock your creativity.

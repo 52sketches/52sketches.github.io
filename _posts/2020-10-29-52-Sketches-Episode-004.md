@@ -26,13 +26,13 @@ and practice as a dance artist in Los Angeles.
 ## Transcript
 
 Rob Head  0:01
-52 sketches, Episode Four, dancer, choreographer, Angela Todaro.
+52 Sketches, Episode Four, dancer, choreographer, Angela Todaro.
 
 Jennifer Head  0:11
-Welcome to 52 sketches, a podcast about creativity and creative practices. here's your host, Rob head.
+Welcome to 52 Sketches, a podcast about creativity and creative practices. here's your host, Rob Head.
 
 Rob Head  0:21
-Welcome to the 52 sketches podcast. I'm your host Rob head. We are here to talk about creativity and living a creative life practices, habits strategies for making wonderful things. Today I am delighted to have on the show dance artists Angela Todaro. Angela Todaro is an award winning choreographer, director, dancer and model living and working in Los Angeles. She is bringing people and stories together for movement on stage TV, film and music videos. In addition to her choreographic and performance work, Angela teaches classes, workshops and masterclasses. So welcome, Angela.
+Welcome to the 52 Sketches podcast. I'm your host Rob Head. We are here to talk about creativity and living a creative life practices, habits strategies for making wonderful things. Today I am delighted to have on the show dance artists Angela Todaro. Angela Todaro is an award winning choreographer, director, dancer and model living and working in Los Angeles. She is bringing people and stories together for movement on stage TV, film and music videos. In addition to her choreographic and performance work, Angela teaches classes, workshops and masterclasses. So welcome, Angela.
 
 Angela Todaro  0:58
 Hi, thank you so much.
@@ -291,4 +291,4 @@ Rob Head  31:50
 You're welcome.
 
 Damien Burke  31:59
-The 52 sketches podcast is a product of 52 sketches, makers of [earlywords.io](https://earlywords.io), daily, private, stream-of-consciousness writing, to clear your mind and unlock your creativity.
+The 52 Sketches podcast is a product of 52 Sketches, makers of [earlywords.io](https://earlywords.io), daily, private, stream-of-consciousness writing, to clear your mind and unlock your creativity.

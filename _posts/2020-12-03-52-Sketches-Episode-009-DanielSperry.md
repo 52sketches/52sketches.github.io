@@ -26,17 +26,17 @@ composing for spoken word, and building a relationship with his community.
 ## Transcript
 
 Rob Head  0:05
-52 sketches podcast, episode nine, cellist and composer Daniel Sperry.
+52 Sketches podcast, episode nine, cellist and composer Daniel Sperry.
 
 Jennifer Head  0:13
-Welcome to 52 sketches,
+Welcome to 52 Sketches,
 
 the podcast about creativity and creative practices.
 
 Here's your host Rob.
 
 Rob Head  0:26
-Welcome to the 52 sketches Podcast. I am your host Rob Head. Today I am delighted that we get to spend a moment with musician Daniel Sperry. Daniel Sperry is a cellist composer, singer, songwriter, poet, spoken word artist, street musician, and community artist living in Ashland, Oregon. He's the creator of five albums of instrumental music, and three albums of spoken word with musical landscapes. Welcome, Daniel.
+Welcome to the 52 Sketches Podcast. I am your host Rob Head. Today I am delighted that we get to spend a moment with musician Daniel Sperry. Daniel Sperry is a cellist composer, singer, songwriter, poet, spoken word artist, street musician, and community artist living in Ashland, Oregon. He's the creator of five albums of instrumental music, and three albums of spoken word with musical landscapes. Welcome, Daniel.
 
 Daniel Sperry  0:55
 Thank you, Rob, for having me on.
@@ -231,7 +231,7 @@ Rob Head  33:10
 Coming up, original music by Daniel Sperry.
 
 Damien Burke  33:18
-The 52 sketches podcast is a product of 52 sketches, makers of [earlywords.io](https://earlywords.io), daily, private, stream-of-consciousness writing, to clear your mind and unlock your creativity.
+The 52 Sketches podcast is a product of 52 Sketches, makers of [earlywords.io](https://earlywords.io), daily, private, stream-of-consciousness writing, to clear your mind and unlock your creativity.
 
 Rob Head  33:41
 Now, deep inside and over by our guest, Daniel Sperry

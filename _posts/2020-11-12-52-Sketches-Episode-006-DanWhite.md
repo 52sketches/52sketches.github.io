@@ -27,13 +27,13 @@ stays ready every day.
 ## Transcript
 
 Rob Head  0:02
-The 52 sketches podcast, Episode Six screen and stage actor Dan white.
+The 52 Sketches podcast, Episode Six screen and stage actor Dan white.
 
 Jennifer Head  0:12
-Welcome to 52 sketches, a podcast about creativity and creative practices. here's your host, Rob head.
+Welcome to 52 Sketches, a podcast about creativity and creative practices. here's your host, Rob Head.
 
 Rob Head  0:21
-Welcome to the 52 sketches Podcast. I am your host Rob head. Today I'm excited to have on the show Dan White. Dan White is a writer, performer, actor, singer and comic living in Los Angeles. He starred in showtimes barbershop the series and has appeared on numerous shows including The Young and the Restless hit the floor, Shawn saves the world. Here's the chasing life. Dan has appeared in national commercial campaigns for companies such as McDonald's Hardee's, Hewlett Packard and Taco Bell. On stage he appears in productions such as pulp Shakespeare, Henry the fifth and three sisters. Finally, he voices characters in video games, including games in The Walking Dead aliens, Far Cry and God of War series. Dan can also currently be heard as the principal on Cartoon Network's Clarence Dan also performs his stand up comedy nationwide. So welcome, Dan.
+Welcome to the 52 Sketches Podcast. I am your host Rob Head. Today I'm excited to have on the show Dan White. Dan White is a writer, performer, actor, singer and comic living in Los Angeles. He starred in showtimes barbershop the series and has appeared on numerous shows including The Young and the Restless hit the floor, Shawn saves the world. Here's the chasing life. Dan has appeared in national commercial campaigns for companies such as McDonald's Hardee's, Hewlett Packard and Taco Bell. On stage he appears in productions such as pulp Shakespeare, Henry the fifth and three sisters. Finally, he voices characters in video games, including games in The Walking Dead aliens, Far Cry and God of War series. Dan can also currently be heard as the principal on Cartoon Network's Clarence Dan also performs his stand up comedy nationwide. So welcome, Dan.
 
 Dan White  1:15
 Thank you so much, Rob. I really appreciate that. Great to be here.
@@ -309,5 +309,5 @@ Rob Head  30:08
 dear welcome. All right, thank you so much.
 
 Damien Burke  30:21
-The 52 sketches podcast is a product of 52 sketches, makers of [earlywords.io](https://earlywords.io), daily, private, stream-of-consciousness writing, to clear your mind and unlock your creativity.
+The 52 Sketches podcast is a product of 52 Sketches, makers of [earlywords.io](https://earlywords.io), daily, private, stream-of-consciousness writing, to clear your mind and unlock your creativity.
 

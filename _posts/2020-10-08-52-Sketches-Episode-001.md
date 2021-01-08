@@ -23,13 +23,13 @@ Voiceover artist Kevin Genus talks about his earliest creative outlets, his hist
 ## Transcript
 
 Rob Head (00:18):
-52 sketches.
+52 Sketches.
 
 Damien Burke (00:23):
-Welcome to 52 sketches, a podcast about creativity and creative. Here is your host, Rob Head.
+Welcome to 52 Sketches, a podcast about creativity and creative. Here is your host, Rob Head.
 
 Rob Head (00:33):
-Welcome to the 52 sketches podcast. I am your host, Rob Head. We are here to talk about creativity and living a creative life practices, habits, strategies for making things. So today we are going to speak with voice artists, Kevin genus. He has been featured on countless commercials, movie trailers, news, teasers, videos, et cetera. You may have heard Kevin's wonderful voice on Verizon ads or CNN or Saturday night live
+Welcome to the 52 Sketches podcast. I am your host, Rob Head. We are here to talk about creativity and living a creative life practices, habits, strategies for making things. So today we are going to speak with voice artists, Kevin genus. He has been featured on countless commercials, movie trailers, news, teasers, videos, et cetera. You may have heard Kevin's wonderful voice on Verizon ads or CNN or Saturday night live
 
 Kevin Genus (01:04):
 Was cooler than Gatorade green. Quizno's most popular sub just got way more popular. That moves way too fast. Smoothest riding off road, utility vehicles in the world.
@@ -299,7 +299,7 @@ Rob Head (34:49):
 Right? Yes. If we train our instrument because it does. Yeah. Yeah. You do have to have honed your instrument too, to be able to tap into that, you know, in a way that expresses itself through our own personal, you know, whatever we've learned. There's, there's the, like the inspiration and then there's craft. Yeah, exactly. Yeah, yeah, yeah. Beautiful. wow. It's been one, so wonderful. It Kevin, it's just obviously a joy just to listen to your voice. And I really appreciate you sharing so much of your journey and look forward to to what the future holds as well.
 
 Kevin Genus (35:31):
-Awesome. Likewise, 52 sketches. Love that name. Wonderful.
+Awesome. Likewise, 52 Sketches. Love that name. Wonderful.
 
 Rob Head (35:38):
 Yes. Okay. Have a great, have a great day.
@@ -308,4 +308,4 @@ Kevin Genus (35:41):
 Take care.
 
 Damien Burke (35:41):
-The 52 sketches podcast is a product of 52 sketches, makers of [earlywords.io](https://earlywords.io), daily, private, stream-of-consciousness writing, to clear your mind and unlock your creativity.
+The 52 Sketches podcast is a product of 52 Sketches, makers of [earlywords.io](https://earlywords.io), daily, private, stream-of-consciousness writing, to clear your mind and unlock your creativity.

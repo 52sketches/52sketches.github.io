@@ -21,13 +21,13 @@ stages of his career as a musician, songwriter, producer, and radio host.
 ## Transcript
 
 Rob Head  0:02
-52 sketches podcast, episode eight, rock musician Armando Posada.
+52 Sketches podcast, episode eight, rock musician Armando Posada.
 
 Jennifer Head  0:11
-Welcome to 52 sketches, a podcast about creativity and creative practices. here's your host, Rob.
+Welcome to 52 Sketches, a podcast about creativity and creative practices. here's your host, Rob.
 
 Rob Head  0:21
-Welcome to the 52 sketches Podcast. I am your host, Rob Head. Today I am delighted to have on the show an old friend and collaborator, musical artists and radio personality. Armando Posada. Armando Posada is a songwriter, guitarist, rock producer, tireless champion of rockin spaniel, and a radio show host. So welcome, Armando.
+Welcome to the 52 Sketches Podcast. I am your host, Rob Head. Today I am delighted to have on the show an old friend and collaborator, musical artists and radio personality. Armando Posada. Armando Posada is a songwriter, guitarist, rock producer, tireless champion of rockin spaniel, and a radio show host. So welcome, Armando.
 
 Armando Posada  0:45
 Thank you for having me on
@@ -265,7 +265,7 @@ Armando Posada  35:52
 Well, listen, thank you for the opportunity. I appreciate the platform and you take care of you to
 
 Damien Burke  36:11
-The 52 sketches podcast is a product of 52 sketches, makers of [earlywords.io](https://earlywords.io), daily, private, stream-of-consciousness writing, to clear your mind and unlock your creativity.
+The 52 Sketches podcast is a product of 52 Sketches, makers of [earlywords.io](https://earlywords.io), daily, private, stream-of-consciousness writing, to clear your mind and unlock your creativity.
 
 Rob Head  36:33
 Now, Ava Storm, we need the night, co written and produced by our guest, Armando Posada.
