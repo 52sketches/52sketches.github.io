@@ -44,3 +44,16 @@ section {
     }
   }
 }
+
+.gallery {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin: 1rem 0;
+  width: 100%;
+
+  .gallery__photo {
+    display: inline-block;
+    max-width: 33.33%;
+  }
+}
