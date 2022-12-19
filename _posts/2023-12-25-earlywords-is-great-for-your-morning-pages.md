@@ -1,7 +1,6 @@
 ---
 layout: post
 title: EarlyWords is great for your Morning Pages
-date: December 25, 2022
 ---
 Morning pages are a writing practice that involves setting aside time each morning to write freely, without any particular goal or objective. This practice is often used by writers and other creative professionals as a way to get inspired, motivated, and focused, and to improve their overall well-being.
 

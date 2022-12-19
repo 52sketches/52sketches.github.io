@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Encouraging Others with EarlyWords
-date: December 25, 2022
 ---
 Encouraging others in their creative process can help our own creative process in several ways. It can provide a sense of community and support. By offering encouragement and feedback to others, we can create a positive and nurturing environment that promotes creativity and collaboration. This can help us to feel more connected to others and more invested in our own creative endeavors.
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Our EarlyWords Forum is a community specific network!
-date: December 25, 2022
 ---
 EarlyWords has used Twitter as our community connecting space. Twitter is an online news and social networking site where people communicate in short messages called tweets. Tweeting is posting short messages. Another description of Twitter and tweeting might be microblogging.  We have become concerned about the safety of conducting on that site so we built an option just for us. 
 

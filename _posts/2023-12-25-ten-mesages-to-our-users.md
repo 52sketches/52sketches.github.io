@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Ten Messages to Our Users
-date: December 25, 2022
 ---
 1. "Your art is truly unique and special. We think you have a lot of potential and should continue pursuing it."
 

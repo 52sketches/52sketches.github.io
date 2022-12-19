@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Freewrite with EarlyWords!
-date: December 25, 2022
 ---
 Freewriting is a writing exercise in which an individual writes without stopping or censoring their thoughts. This exercise can help improve creativity and clarity of thought by allowing the writer to let go of their inhibitions and let the words flow freely onto the page.
 

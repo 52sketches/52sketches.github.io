@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Use EarlyWords to reach Flow state!
-date: December 25, 2022
 ---
 Flow State is also known as being "in the zone". Flow state a mental state in which an individual is fully immersed in an activity, to the point where they lose track of time and become completely focused. This state is often associated with increased creativity and productivity.
 

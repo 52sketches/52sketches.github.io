@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Your Voice and EarlyWords
-date: December 25, 2022
 ---
 EarlyWords invites you to write to yourself once a day.  This exercise can help you resist the influence of social media and advertising. In today's world, it can be easy to get caught up in the constant stream of information and advertising that is bombarding us from all sides. Social media and advertising are designed to capture our attention and manipulate our behavior, often leading us to make choices that are not in our best interests.
 

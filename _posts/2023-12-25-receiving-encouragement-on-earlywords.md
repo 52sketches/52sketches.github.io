@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Receiving Encouragement on EarlyWords
-date: December 25, 2022
 ---
 Why did we create a forum for the users of EarlyWords?  It creates a space for you to celebrate yourself.  It also provides an opportunity to encourage others in their process. 
  

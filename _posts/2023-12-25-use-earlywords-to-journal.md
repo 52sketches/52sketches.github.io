@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Use EarlyWords to Journal!
-date: December 25, 2022
 ---
 Journaling is a powerful tool that can help you gain insights, explore your thoughts and emotions, and find answers to your questions. When you write to yourself, you have the opportunity to reflect on your experiences, express yourself freely, and discover new things about yourself.
 

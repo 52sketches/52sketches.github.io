@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Healthy Daily Habits That Can Benefit Creative People
-date: December 25, 2022
 ---
 Exercise regularly: Physical activity can help improve your overall health and well-being, which can in turn boost your creativity.
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: EarlyWords Lets You Listen to Your Own Voice
-date: December 25, 2022
 ---
 Listening to your own voice can be a liberating experience. For many of us, our inner voices are often drowned out by the constant noise of the outside world. We may have difficulty expressing ourselves or may feel like we are not being heard. By taking the time to listen to our own voices, we can gain a greater understanding of our thoughts, feelings, and desires.
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Freewriting with EarlyWords!
-date: December 25, 2022
 ---
 EarlyWords invite you to freewrite once a day.  Freewriting is a writing exercise in which an individual writes without stopping or censoring their thoughts. This exercise can be beneficial for emotional well-being in a number of ways.
 
