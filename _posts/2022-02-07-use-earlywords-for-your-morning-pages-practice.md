@@ -16,4 +16,4 @@ Be consistent: The key to making morning pages effective is to do them consisten
 
 Overall, morning pages can be a valuable tool for anyone looking to improve their creativity and clear their mind. By following these best practices, you can make the most of this writing exercise and get the most benefit from it.
 
--- Claudia
+-- [Claudia from EarlyWords](https://earlywords.io/about)

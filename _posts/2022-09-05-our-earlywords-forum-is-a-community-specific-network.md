@@ -14,4 +14,4 @@ In addition to providing a sense of connection and support, community specific s
 
 Community specific social networks are great to invest in because they provide a sense of connection, support, and belonging for users, and can be a valuable resource for sharing knowledge and expertise.  EarlyWords is pleased to provide an internal space for connection and encouragement.
 
--- Claudia
+-- [Claudia from EarlyWords](https://earlywords.io/about)

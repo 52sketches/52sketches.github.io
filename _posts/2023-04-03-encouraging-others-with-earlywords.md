@@ -8,4 +8,4 @@ EarlyWords strongly believes in community connection and encouraging others. We 
 
 Overall, encouraging others in their creative process can be a valuable way to support and enrich our own creative endeavors. Encouraging others can help us to stay motivated and inspired. By celebrating the accomplishments of others and sharing our own experiences and insights, we can create a positive feedback loop that keeps us engaged and enthusiastic about our own creative work. When we create a supportive community on EarlyWords, developing our skills, and staying motivated and inspired, we can create a positive and productive environment that promotes creativity and growth.
 
--- Claudia
+-- [Claudia from EarlyWords](https://earlywords.io/about)

@@ -12,4 +12,4 @@ Third, when folks give us feedback it can help us to stay inspired and motivated
 
 Receiving encouragement can be an important part of the creative process. By providing validation, support, and inspiration, it can help us to stay motivated and engaged in our art, and to continue growing and developing as artists.
 
--- Claudia
+-- [Claudia from EarlyWords](https://earlywords.io/about)

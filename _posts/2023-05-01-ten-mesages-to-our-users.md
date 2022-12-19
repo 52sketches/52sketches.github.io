@@ -22,4 +22,4 @@ title: Ten Messages to Our Users
 
 10. "Your art matters, and we know that you have the talent and dedication to make a real impact with it. Keep following your passion and never give up on your dreams."
 
--- Claudia
+-- [Claudia from EarlyWords](https://earlywords.io/about)

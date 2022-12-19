@@ -10,4 +10,4 @@ Third, journaling can serve as a source of inspiration and motivation. By record
 
 Overall, journaling can be a valuable tool for anyone who is looking to write classical music. By helping you to clarify your ideas, develop your skills, and stay inspired, it can support you in creating music that is meaningful, expressive, and beautifully crafted. EarlyWords can be an unexpected tool for musicians and other creatives.
 
--- Claudia
+-- [Claudia from EarlyWords](https://earlywords.io/about)

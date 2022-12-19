@@ -12,4 +12,4 @@ In addition to helping you process your thoughts and emotions and clarify your i
 
 Overall, journaling is a valuable tool that can help you to find answers and gain insights. By regularly writing in a journal, you can better understand your thoughts and emotions, clarify your ideas, and find solutions to your problems.
 
--- Claudia
+-- [Claudia from EarlyWords](https://earlywords.io/about)

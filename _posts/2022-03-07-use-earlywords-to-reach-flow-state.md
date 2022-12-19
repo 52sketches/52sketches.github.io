@@ -12,4 +12,4 @@ In addition to the act of writing itself, the consistent daily practice of Early
 
 Overall, EarlyWords can be a valuable tool for anyone looking to reach flow state and tap into their creative potential. The act of writing and the consistency of the daily practice can help focus the mind and allow for a more immersive and productive experience.
 
--- Claudia
+-- [Claudia from EarlyWords](https://earlywords.io/about)

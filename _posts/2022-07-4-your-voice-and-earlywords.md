@@ -12,4 +12,4 @@ In addition, connecting to our inner voice can also help us to resist the pressu
 
 Introspection can help us to resist the influence of social media and advertising. It can give us the awareness and confidence we need to make choices that are in line with our own values and goals, rather than being swayed by external influences. By taking the time to listen to our own voices, we can gain greater control over our lives and the decisions we make. Join us on EarlyWords and listen to yourself.
 
--- Claudia
+-- [Claudia from EarlyWords](https://earlywords.io/about)

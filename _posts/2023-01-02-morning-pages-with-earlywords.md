@@ -16,4 +16,4 @@ Next, just write. This could be anything – your thoughts, feelings, ideas, or 
 
 In conclusion, using morning pages is a great way to jumpstart your creative process. By setting aside time each morning to write freely, you can tap into your unconscious mind, uncover new ideas and insights, and start your day in a more positive and relaxed frame of mind. By incorporating morning pages into your daily routine, you can improve your creative process and overall well-being. So, start using EarlyWords today and see the benefits for yourself.
 
--- Claudia
+-- [Claudia from EarlyWords](https://earlywords.io/about)

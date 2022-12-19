@@ -18,4 +18,4 @@ Practice mindfulness: Mindfulness can help you stay present in the moment and be
 
 Overall, the key is to find healthy habits that work for you and make them a regular part of your daily routine. This can help support your overall health and well-being, which can in turn benefit your creativity.
 
--- Claudia
+-- [Claudia from EarlyWords](https://earlywords.io/about)

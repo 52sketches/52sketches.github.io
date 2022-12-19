@@ -13,4 +13,4 @@ We used the EarlyWords page for our novel writing session. The consistent encour
 
 Overall, participating in Nanowrimo can be a rewarding and challenging experience. It requires dedication and hard work, but the sense of accomplishment that comes from writing a novel in just 30 days can be truly rewarding. Whether you are a seasoned writer or a beginner, Nanowrimo is a great opportunity to challenge yourself and take your writing to the next level. We recommend EarlyWords as fun tool if you decide to try this challenge!
 
--- Claudia
+-- [Claudia from EarlyWords](https://earlywords.io/about)

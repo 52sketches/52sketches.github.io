@@ -12,4 +12,4 @@ In addition, listening to your own voice can also help to improve our relationsh
 
 EarkyWords invites you to write to yourself once a day. Listening to your own voice can be a powerful and liberating experience. It can help us to connect with our inner selves, build confidence and self-esteem, and improve our relationships with others. By taking the time to listen to our own voices, we can gain a greater understanding of ourselves and the world around us.
 
--- Claudia
+-- [Claudia from EarlyWords](https://earlywords.io/about)

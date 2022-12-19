@@ -16,4 +16,4 @@ Reflect on your words: After the freewriting session, take some time to read ove
 
 Overall, freewriting can be a valuable tool for reaching personal clarity. By letting go of inhibitions and allowing the words to flow freely, it is possible to tap into your inner thoughts and gain insight into your own mind.
 
--- Claudia
+-- [Claudia from EarlyWords](https://earlywords.io/about)

@@ -18,4 +18,4 @@ Also, be consistent. The key to building a successful daily habit is to stick wi
 
 EarlyWords can help you grow all these skills. Building a daily habit is great for your creative practice because it can help you stay focused and productive, and develop a stronger connection to your work. By setting aside a dedicated time each day to work on your creative practice, and sticking with it consistently, you can improve your skills and achieve your goals. So, start building your daily habit today and watch your creative practice flourish.
 
--- Claudia
+-- [Claudia from EarlyWords](https://earlywords.io/about)
