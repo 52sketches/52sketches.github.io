@@ -10,6 +10,6 @@ Second, freewriting can help improve self-awareness. The act of writing can prov
 
 Third, freewriting can help improve problem-solving skills. The process of writing can help clarify and organize thoughts, making it easier to approach problems in a logical and systematic way. This can be particularly useful for working through difficult emotions and finding healthy ways to cope.
 
-Overall, freewriting can be a valuable tool for emotional well-being. By providing a healthy outlet for emotions, improving self-awareness, and aiding in problem-solving, this writing exercise can help individuals better manage their emotional health. EarlyWords is a great tool for freewriting once a day.
+Overall, freewriting can be a valuable tool for emotional well-being. By providing a healthy outlet for emotions, improving self-awareness, and aiding in problem-solving, this writing exercise can help individuals better manage their emotional health. [EarlyWords](https://earlywords.io/) is a great tool for freewriting once a day.
 
 -- [Claudia from EarlyWords](https://earlywords.io/about)

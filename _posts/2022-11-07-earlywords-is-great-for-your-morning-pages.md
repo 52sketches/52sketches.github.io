@@ -10,7 +10,7 @@ Another advantage of using morning pages is that they can help you to improve yo
 
 In addition to helping you get inspired and motivated, morning pages can also help you to get focused and be more productive. By setting aside time each morning to write freely, you're giving yourself the opportunity to clear your mind and focus on what's important. This can help you to prioritize your tasks and goals for the day, and can enable you to be more productive and efficient throughout the day.
 
-So, how can you start using EarlyWords to improve your creative practice and overall well-being? The first step is to set aside a specific time each day to write freely, without any particular goal or objective. This could be first thing in the morning, before you start your day, or at some other time that works best for you. The important thing is to make sure you have a dedicated block of time each day to focus on your writing.
+So, how can you start using [EarlyWords](https://earlywords.io/) to improve your creative practice and overall well-being? The first step is to set aside a specific time each day to write freely, without any particular goal or objective. This could be first thing in the morning, before you start your day, or at some other time that works best for you. The important thing is to make sure you have a dedicated block of time each day to focus on your writing.
 
 Next, think about what you want to write about during your EarlyWords. This could be anything – your thoughts, feelings, ideas, or experiences – as long as you're writing freely and without any particular goal or objective. The key is to let your mind wander and explore, and to see where your writing takes you.
 

@@ -18,7 +18,7 @@ Like fire, the editor is a powerful servant and fearful master. An internal edit
 
 It takes training to learn how to manage the editor. It takes practice.
 
-For me, that is what EarlyWords is, a place to do that training. Every morning, for the time it takes for me to type eight hundred words, I practice quieting the Resistance, setting aside the inner editor, telling him, "Wait. This is not your time."
+For me, that is what [EarlyWords](https://earlywords.io/) is, a place to do that training. Every morning, for the time it takes for me to type eight hundred words, I practice quieting the Resistance, setting aside the inner editor, telling him, "Wait. This is not your time."
 
 I don't need to use the right word. I don't need my sentences to flow smoothly. I don't need the structure to be solid, or the meaning to be clear. I don't need there to be a meaning at all. This is not for anyone to read. This writing is private. Afterwards, it is hidden even from me.
 

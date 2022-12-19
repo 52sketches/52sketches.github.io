@@ -4,7 +4,7 @@ title: The Medium is the Message
 date: November 25, 2020
 ---
 
-You know that phase at the very beginning of an idea where you just sketch things out? Maybe on the back of an envelope. If you’ve ever worked in an office and collaborated on something, perhaps you’ve brainstormed and sketched out a project on a whiteboard. That’s precisely what we did for the EarlyWords project. I drew a rectangle on the whiteboard in my office / studio and put a little bird and wrote "earlywords" where the logo is typically found on a webpage.
+You know that phase at the very beginning of an idea where you just sketch things out? Maybe on the back of an envelope. If you’ve ever worked in an office and collaborated on something, perhaps you’ve brainstormed and sketched out a project on a whiteboard. That’s precisely what we did for the [EarlyWords](https://earlywords.io/) project. I drew a rectangle on the whiteboard in my office / studio and put a little bird and wrote "earlywords" where the logo is typically found on a webpage.
 
 Damien lives in Hollywood and I live in the small town of Ashland in Oregon, so we sent images back and forth and chatted and collaborated. In our software development work, we follow a philosophy that we shouldn’t spend time building things that we have not yet validated that we need. So when we put together the first drafts of EarlyWords, I took a photo of my whiteboard sketch and wrestled it in Photoshop into our draft logo. Of course we would eventually have someone make us a “real” logo when we got around to it.
 

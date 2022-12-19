@@ -4,7 +4,7 @@ title: What is the Simplest Thing That Could Possibly Work?
 date: June 26, 2020
 ---
 
-As the EarlyWords team, we are a pair of creative people who code. We like to think of focusing on either of these activities as cross-training. We learn a little something about coding from writing prose or music. And we learn a little something about creativity when we code.
+As the [EarlyWords](https://earlywords.io/) team, we are a pair of creative people who code. We like to think of focusing on either of these activities as cross-training. We learn a little something about coding from writing prose or music. And we learn a little something about creativity when we code.
 
 In reality, of course, there isn’t as much separation as one might think. Coding is fundamentally a ‘maker’ activity. There’s something the ‘puter doesn’t do and we make it do that.
 
@@ -14,8 +14,8 @@ Anyway, one of the principles we’ve learned from agile methodologies is to foc
 
 In the case of EarlyWords, for the first couple of hours, the app was a text box on a page that didn’t even save. Obviously, we didn’t push it out to the public like that because that’s not particularly helpful, but it’s a starting point, a building block. And we keep building. We’ve put a few more hours of effort into the app about four days a week for a couple of months. Eventually, we reach a point where it starts to feel real. Hey, this is pretty helpful! I like this! I’m using this every day!
 
-And so here we are. Fundamentally, EarlyWords provides the service that we set out to provide. It’s been clarified, honed, and evolved in baby steps from early feedback to the point that it feels like a real beginning—a 'minimum viable product' if you will.
+And so here we are. Fundamentally, [EarlyWords](https://earlywords.io/) provides the service that we set out to provide. It’s been clarified, honed, and evolved in baby steps from early feedback to the point that it feels like a real beginning—a 'minimum viable product' if you will.
 
-So, belatedly, welcome to EarlyWords (we-like-this edition)!
+So, belatedly, welcome to [EarlyWords](https://earlywords.io/) (we-like-this edition)!
 
 — Rob

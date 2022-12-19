@@ -8,8 +8,8 @@ EarlyWords can be an effective way to reach flow state. The act of writing on th
 
 The stream-of-consciousness nature of morning pages allows the writer to let go of their inhibitions and let the words flow freely onto the page. This can help clear the mind and allow ideas to emerge more easily. Over time, the regular practice of morning pages can help train the brain to enter flow state more easily.
 
-In addition to the act of writing itself, the consistent daily practice of EarlyWords can also help an individual reach flow state. By establishing a daily routine, the mind becomes conditioned to enter a state of focus and concentration at the same time each day. This can make it easier to enter flow state when engaging in other activities.
+In addition to the act of writing itself, the consistent daily practice of [EarlyWords](https://earlywords.io/) can also help an individual reach flow state. By establishing a daily routine, the mind becomes conditioned to enter a state of focus and concentration at the same time each day. This can make it easier to enter flow state when engaging in other activities.
 
-Overall, EarlyWords can be a valuable tool for anyone looking to reach flow state and tap into their creative potential. The act of writing and the consistency of the daily practice can help focus the mind and allow for a more immersive and productive experience.
+Overall, [EarlyWords](https://earlywords.io/) can be a valuable tool for anyone looking to reach flow state and tap into their creative potential. The act of writing and the consistency of the daily practice can help focus the mind and allow for a more immersive and productive experience.
 
 -- [Claudia from EarlyWords](https://earlywords.io/about)

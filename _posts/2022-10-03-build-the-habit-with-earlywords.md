@@ -2,7 +2,7 @@
 layout: post
 title: Build the Habit with EarlyWords!
 ---
-Building a daily habit is essential for anyone looking to improve their creative practice. By incorporating a daily habit into your routine, you can improve your focus and productivity, and develop a stronger connection to your creative work. EarlyWords is a great way to get you motivated every day.
+Building a daily habit is essential for anyone looking to improve their creative practice. By incorporating a daily habit into your routine, you can improve your focus and productivity, and develop a stronger connection to your creative work. [EarlyWords](https://earlywords.io/) is a great way to get you motivated every day.
 
 One of the main benefits of building a daily habit is that it can help you stay focused and on track. When you make a commitment to work on your creative practice every day, you're more likely to stay focused and avoid distractions. This can be especially helpful if you're working on a long-term project or trying to improve your skills in a particular area.
 

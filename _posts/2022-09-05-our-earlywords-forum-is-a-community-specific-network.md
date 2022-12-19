@@ -12,6 +12,6 @@ Another advantage of community specific social networks is that they can provide
 
 In addition to providing a sense of connection and support, community specific social networks can also be a great place for users to share their knowledge and expertise. Whether it's advice on a particular hobby or topic, or tips and tricks for beginners, these networks can be a valuable resource for people looking to learn more about a particular subject.
 
-Community specific social networks are great to invest in because they provide a sense of connection, support, and belonging for users, and can be a valuable resource for sharing knowledge and expertise.  EarlyWords is pleased to provide an internal space for connection and encouragement.
+Community specific social networks are great to invest in because they provide a sense of connection, support, and belonging for users, and can be a valuable resource for sharing knowledge and expertise.  [EarlyWords](https://earlywords.io/) is pleased to provide an internal space for connection and encouragement.
 
 -- [Claudia from EarlyWords](https://earlywords.io/about)
