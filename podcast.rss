@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="en">
+  <channel>
+    <atom:link href="https://52sketches.com/podcast.rss" rel="self" type="application/rss+xml" />
+    <title>52 Sketches</title>
+    <description>Enabling a life of creativity.</description>
+    <link>https://52sketches.com</link>
+    <language>en</language>
+    <managingEditor>team@52sketches.com (Rob Head and Damien Burke)</managingEditor>
+    <webMaster>team@52sketches.com (Rob Head and Damien Burke)</webMaster>
+    <copyright>2020-2022 52 Sketches</copyright>
+    <pubDate>Sun, 25 Dec 2022 03:22:54 +0000</pubDate>
+    <lastBuildDate>Sun, 25 Dec 2022 03:22:54 +0000</lastBuildDate>
+    <image>
+      <link>https://52sketches.com</link>
+      <url>https://52sketches.com/images/podcast-cover.png</url>
+      <title>52 Sketches</title>
+    </image>
+    <itunes:subtitle>Enabling a life of creativity.</itunes:subtitle>
+    <itunes:author>Rob Head and Damien Burke</itunes:author>
+    <itunes:summary>Enabling a life of creativity.</itunes:summary>
+    <itunes:keywords></itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Rob Head and Damien Burke</itunes:name>
+      <itunes:email>team@52sketches.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://52sketches.com/images/podcast-cover.png" />
+    <itunes:category text="Arts" />
+    <itunes:explicit>no</itunes:explicit>
+    
+      <item>
+        <title>Episode 12: Musician and Activist Eric Dozier</title>
+        <link>https://52sketches.com/podcast/2021/01/07/52-Sketches-Episode-012-EricDozier.html</link>
+        <pubDate>Thu, 07 Jan 2021 18:00:00 +0000</pubDate>
+        <description>Conversation about a creative life with musician and activist Eric Dozier</description>
+        <guid isPermaLink="true">https://52sketches.com/podcast/2021/01/07/52-Sketches-Episode-012-EricDozier.html</guid>
+        <enclosure url="https://52sketchespodcast.s3-us-west-1.amazonaws.com/52sketches-episode-012-Eric-Dozier.mp3" length="98438503" type="audio/mp3"/>
+        <itunes:author>Rob Head and Damien Burke</itunes:author>
+        <itunes:subtitle>52 Sketches: Episode 12: Musician and Activist Eric Dozier</itunes:subtitle>
+        <itunes:summary>Conversation about a creative life with musician and activist Eric Dozier</itunes:summary>
+        <itunes:duration>51:16</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <itunes:image href="https://52sketches.com/images/itunes.png" />
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>no</itunes:block>
+      </item>
+    
+      <item>
+        <title>Episode 11: Music Producer and Technologist Kelly Snook</title>
+        <link>https://52sketches.com/podcast/2020/12/17/52-Sketches-Episode-011-KellySnook.html</link>
+        <pubDate>Thu, 17 Dec 2020 18:00:00 +0000</pubDate>
+        <description>Conversation about a creative life with music Producer and technologist Kelly Snook</description>
+        <guid isPermaLink="true">https://52sketches.com/podcast/2020/12/17/52-Sketches-Episode-011-KellySnook.html</guid>
+        <enclosure url="https://52sketchespodcast.s3-us-west-1.amazonaws.com/52sketches-episode-011-Kelly-Snook.mp3" length="117189825" type="audio/mp3"/>
+        <itunes:author>Rob Head and Damien Burke</itunes:author>
+        <itunes:subtitle>52 Sketches: Episode 11: Music Producer and Technologist Kelly Snook</itunes:subtitle>
+        <itunes:summary>Conversation about a creative life with music Producer and technologist Kelly Snook</itunes:summary>
+        <itunes:duration>61:02</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <itunes:image href="https://52sketches.com/images/itunes.png" />
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>no</itunes:block>
+      </item>
+    
+      <item>
+        <title>Episode 10: Milliner Sahar Freemantle</title>
+        <link>https://52sketches.com/podcast/2020/12/10/52-Sketches-Episode-010-SaharFreemantle.html</link>
+        <pubDate>Thu, 10 Dec 2020 10:00:00 +0000</pubDate>
+        <description>Conversation about creativity with the milliner Sahar Freemantle</description>
+        <guid isPermaLink="true">https://52sketches.com/podcast/2020/12/10/52-Sketches-Episode-010-SaharFreemantle.html</guid>
+        <enclosure url="https://52sketchespodcast.s3-us-west-1.amazonaws.com/52sketches-episode-010-Sahar-Freemantle.mp3" length="80854124" type="audio/mp3"/>
+        <itunes:author>Rob Head and Damien Burke</itunes:author>
+        <itunes:subtitle>52 Sketches: Episode 10: Milliner Sahar Freemantle</itunes:subtitle>
+        <itunes:summary>Conversation about creativity with the milliner Sahar Freemantle</itunes:summary>
+        <itunes:duration>42:07</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <itunes:image href="https://52sketches.com/images/itunes.png" />
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>no</itunes:block>
+      </item>
+    
+      <item>
+        <title>Episode 9: Cellist and Composer, Daniel Sperry</title>
+        <link>https://52sketches.com/podcast/2020/12/03/52-Sketches-Episode-009-DanielSperry.html</link>
+        <pubDate>Thu, 03 Dec 2020 18:00:00 +0000</pubDate>
+        <description>Conversation about a creative life with cellist and composer Daniel Sperry</description>
+        <guid isPermaLink="true">https://52sketches.com/podcast/2020/12/03/52-Sketches-Episode-009-DanielSperry.html</guid>
+        <enclosure url="https://52sketchespodcast.s3-us-west-1.amazonaws.com/52sketches-episode-009-Daniel-Sperry.mp3" length="73222189" type="audio/mp3"/>
+        <itunes:author>Rob Head and Damien Burke</itunes:author>
+        <itunes:subtitle>52 Sketches: Episode 9: Cellist and Composer, Daniel Sperry</itunes:subtitle>
+        <itunes:summary>Conversation about a creative life with cellist and composer Daniel Sperry</itunes:summary>
+        <itunes:duration>38:08</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <itunes:image href="https://52sketches.com/images/itunes.png" />
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>no</itunes:block>
+      </item>
+    
+      <item>
+        <title>Episode 8: Rock Musician Armando Posada</title>
+        <link>https://52sketches.com/podcast/2020/11/26/52-Sketches-Episode-008-ArmandoPasado.html</link>
+        <pubDate>Thu, 26 Nov 2020 18:00:00 +0000</pubDate>
+        <description>Conversation about creativity with Rock Musician Armando Posada</description>
+        <guid isPermaLink="true">https://52sketches.com/podcast/2020/11/26/52-Sketches-Episode-008-ArmandoPasado.html</guid>
+        <enclosure url="https://52sketchespodcast.s3-us-west-1.amazonaws.com/52sketches-episode-008-ArmandoPosada.mp3" length="77829771" type="audio/mp3"/>
+        <itunes:author>Rob Head and Damien Burke</itunes:author>
+        <itunes:subtitle>52 Sketches: Episode 8: Rock Musician Armando Posada</itunes:subtitle>
+        <itunes:summary>Conversation about creativity with Rock Musician Armando Posada</itunes:summary>
+        <itunes:duration>40:32</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <itunes:image href="https://52sketches.com/images/itunes.png" />
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:block>no</itunes:block>
+      </item>
+    
+      <item>
+        <title>Episode 7: The Rogue Pianist Kimberly StarKey</title>
+        <link>https://52sketches.com/podcast/2020/11/19/52-Sketches-Episode-007-KimberlyStarkey.html</link>
+        <pubDate>Thu, 19 Nov 2020 18:00:00 +0000</pubDate>
+        <description>Conversation about creativity with the Rogue Pianist Kimberly StarKey</description>
+        <guid isPermaLink="true">https://52sketches.com/podcast/2020/11/19/52-Sketches-Episode-007-KimberlyStarkey.html</guid>
+        <enclosure url="https://52sketchespodcast.s3-us-west-1.amazonaws.com/52sketches-episode-007-KimberlyStarKey.mp3" length="93957980" type="audio/mp3"/>
+        <itunes:author>Rob Head and Damien Burke</itunes:author>
+        <itunes:subtitle>52 Sketches: Episode 7: The Rogue Pianist Kimberly StarKey</itunes:subtitle>
+        <itunes:summary>Conversation about creativity with the Rogue Pianist Kimberly StarKey</itunes:summary>
+        <itunes:duration>48:56</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <itunes:image href="https://52sketches.com/images/itunes.png" />
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>no</itunes:block>
+      </item>
+    
+      <item>
+        <title>Episode 6: Actor and Comic Dan White</title>
+        <link>https://52sketches.com/podcast/2020/11/12/52-Sketches-Episode-006-DanWhite.html</link>
+        <pubDate>Thu, 12 Nov 2020 18:00:00 +0000</pubDate>
+        <description>Conversation about creativity with actor and comic Dan White</description>
+        <guid isPermaLink="true">https://52sketches.com/podcast/2020/11/12/52-Sketches-Episode-006-DanWhite.html</guid>
+        <enclosure url="https://52sketchespodcast.s3-us-west-1.amazonaws.com/52sketches-episode-006-DanWhite.mp3" length="59302476" type="audio/mp3"/>
+        <itunes:author>Rob Head and Damien Burke</itunes:author>
+        <itunes:subtitle>52 Sketches: Episode 6: Actor and Comic Dan White</itunes:subtitle>
+        <itunes:summary>Conversation about creativity with actor and comic Dan White</itunes:summary>
+        <itunes:duration>30:53</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <itunes:image href="https://52sketches.com/images/itunes.png" />
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>no</itunes:block>
+      </item>
+    
+      <item>
+        <title>Episode 5: Rock Musician Arden Leigh</title>
+        <link>https://52sketches.com/podcast/2020/11/05/52-Sketches-Episode-005.html</link>
+        <pubDate>Thu, 05 Nov 2020 18:00:00 +0000</pubDate>
+        <description>Conversation about creativity with rock musician Arden Leigh</description>
+        <guid isPermaLink="true">https://52sketches.com/podcast/2020/11/05/52-Sketches-Episode-005.html</guid>
+        <enclosure url="https://52sketchespodcast.s3-us-west-1.amazonaws.com/52sketches-episode-005-ArdenLeigh.mp3" length="63558136" type="audio/mp3"/>
+        <itunes:author>Rob Head and Damien Burke</itunes:author>
+        <itunes:subtitle>52 Sketches: Episode 5: Rock Musician Arden Leigh</itunes:subtitle>
+        <itunes:summary>Conversation about creativity with rock musician Arden Leigh</itunes:summary>
+        <itunes:duration>33:06</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <itunes:image href="https://52sketches.com/images/itunes.png" />
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>no</itunes:block>
+      </item>
+    
+      <item>
+        <title>Episode 4: Dance Artist Angela Todaro</title>
+        <link>https://52sketches.com/podcast/2020/10/29/52-Sketches-Episode-004.html</link>
+        <pubDate>Thu, 29 Oct 2020 18:00:00 +0000</pubDate>
+        <description>Conversation about creativity with dance artist Angela Todaro</description>
+        <guid isPermaLink="true">https://52sketches.com/podcast/2020/10/29/52-Sketches-Episode-004.html</guid>
+        <enclosure url="https://52sketchespodcast.s3-us-west-1.amazonaws.com/52sketches-episode-004.mp3" length="62502371" type="audio/mp3"/>
+        <itunes:author>Rob Head and Damien Burke</itunes:author>
+        <itunes:subtitle>52 Sketches: Episode 4: Dance Artist Angela Todaro</itunes:subtitle>
+        <itunes:summary>Conversation about creativity with dance artist Angela Todaro</itunes:summary>
+        <itunes:duration>32:33</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <itunes:image href="https://52sketches.com/images/itunes.png" />
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>no</itunes:block>
+      </item>
+    
+      <item>
+        <title>Episode 3: Theatre and Cultural Producer Claudia Alick</title>
+        <link>https://52sketches.com/podcast/2020/10/22/52-Sketches-Episode-003.html</link>
+        <pubDate>Thu, 22 Oct 2020 17:00:00 +0000</pubDate>
+        <description>Conversation about creativity with theatre producer Claudia Alick</description>
+        <guid isPermaLink="true">https://52sketches.com/podcast/2020/10/22/52-Sketches-Episode-003.html</guid>
+        <enclosure url="https://52sketchespodcast.s3-us-west-1.amazonaws.com/52sketches-episode-003.mp3" length="62034257" type="audio/mp3"/>
+        <itunes:author>Rob Head and Damien Burke</itunes:author>
+        <itunes:subtitle>52 Sketches: Episode 3: Theatre and Cultural Producer Claudia Alick</itunes:subtitle>
+        <itunes:summary>Conversation about creativity with theatre producer Claudia Alick</itunes:summary>
+        <itunes:duration>32:18</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <itunes:image href="https://52sketches.com/images/itunes.png" />
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>no</itunes:block>
+      </item>
+    
+      <item>
+        <title>Episode 2: Actor, Singer, and Songwriter Phillip Daniel</title>
+        <link>https://52sketches.com/podcast/2020/10/15/52-Sketches-Episode-002.html</link>
+        <pubDate>Thu, 15 Oct 2020 17:00:00 +0000</pubDate>
+        <description>Conversation about creativity with multi-disciplinary artist Phillip Daniel</description>
+        <guid isPermaLink="true">https://52sketches.com/podcast/2020/10/15/52-Sketches-Episode-002.html</guid>
+        <enclosure url="https://52sketchespodcast.s3-us-west-1.amazonaws.com/52sketches-episode-002.mp3" length="66475491" type="audio/mp3"/>
+        <itunes:author>Rob Head and Damien Burke</itunes:author>
+        <itunes:subtitle>52 Sketches: Episode 2: Actor, Singer, and Songwriter Phillip Daniel</itunes:subtitle>
+        <itunes:summary>Conversation about creativity with multi-disciplinary artist Phillip Daniel</itunes:summary>
+        <itunes:duration>34:37</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <itunes:image href="https://52sketches.com/images/itunes.png" />
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>no</itunes:block>
+      </item>
+    
+      <item>
+        <title>Episode 1: Voiceover Artist Kevin Genus</title>
+        <link>https://52sketches.com/podcast/2020/10/08/52-Sketches-Episode-001.html</link>
+        <pubDate>Thu, 08 Oct 2020 17:00:00 +0000</pubDate>
+        <description>Conversation about creativity with voiceover artist Kevin Genus</description>
+        <guid isPermaLink="true">https://52sketches.com/podcast/2020/10/08/52-Sketches-Episode-001.html</guid>
+        <enclosure url="https://52sketchespodcast.s3-us-west-1.amazonaws.com/52sketches-episode-001.mp3" length="69318450" type="audio/mp3"/>
+        <itunes:author>Rob Head and Damien Burke</itunes:author>
+        <itunes:subtitle>52 Sketches: Episode 1: Voiceover Artist Kevin Genus</itunes:subtitle>
+        <itunes:summary>Conversation about creativity with voiceover artist Kevin Genus</itunes:summary>
+        <itunes:duration>36:06</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <itunes:image href="https://52sketches.com/images/itunes.png" />
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>no</itunes:block>
+      </item>
+    
+      <item>
+        <title>Podcast Theme</title>
+        <link>https://52sketches.com/podcast/2020/09/25/podcast-theme.html</link>
+        <pubDate>Fri, 25 Sep 2020 00:00:00 +0000</pubDate>
+        <description>52 Sketches podcast theme</description>
+        <guid isPermaLink="true">https://52sketches.com/podcast/2020/09/25/podcast-theme.html</guid>
+        <enclosure url="https://52sketchespodcast.s3-us-west-1.amazonaws.com/52SketchesTheme.mp3" length="1328191" type="audio/mp3"/>
+        <itunes:author>Rob Head and Damien Burke</itunes:author>
+        <itunes:subtitle>52 Sketches: Podcast Theme</itunes:subtitle>
+        <itunes:summary>Draft musical theme of the 52 Sketches podcast</itunes:summary>
+        <itunes:duration>00:41</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <itunes:image href="https://52sketches.com/images/itunes.png" />
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:block>no</itunes:block>
+      </item>
+    
+  </channel>
+</rss>
