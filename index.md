@@ -26,7 +26,7 @@ Being an artist or an otherwise creative person is a constant challenge. There a
 <section>
   <div>
     <p>
-      Every week, host Rob Head interviews an artist or other creative. They discuss their journey as an artist and their daily practice(s) to care for and maintain their creative lives.
+      Host Robin Head interviews performing artists and other creatives who discuss their journeys and the daily practice(s) that nourish their creative lives.
     </p>
 
     <p>
@@ -36,7 +36,7 @@ Being an artist or an otherwise creative person is a constant challenge. There a
   <a href='https://podcasts.apple.com/us/podcast/52-sketches/id1533501322'>
     <img
       src="/images/podcast-cover.png"
-      alt="Rob Head sketch portrait"
+      alt="Robin Head sketch portrait"
       class="section__image podcast-cover"
     />
   </a>
