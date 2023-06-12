@@ -2,6 +2,8 @@
 layout: post
 title: Freewriting with EarlyWords!
 ---
+(Also published on the [EarlyWords blog.](https://earlywords.io/articles/freewriting-with-earlywords))
+
 EarlyWords invite you to freewrite once a day.  Freewriting is a writing exercise in which an individual writes without stopping or censoring their thoughts. This exercise can be beneficial for emotional well-being in a number of ways.
 
 First, freewriting can provide a healthy outlet for emotions. Writing can be a therapeutic process, allowing the writer to express their thoughts and feelings in a safe and controlled environment. By letting go of inhibitions and allowing the words to flow freely, it is possible to release emotional baggage and gain a sense of relief.

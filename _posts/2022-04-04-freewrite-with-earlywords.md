@@ -2,6 +2,8 @@
 layout: post
 title: Freewrite with EarlyWords!
 ---
+(Also published on the [EarlyWords blog.](https://earlywords.io/articles/freewrite-with-earlywords))
+
 Freewriting is a writing exercise in which an individual writes without stopping or censoring their thoughts. This exercise can help improve creativity and clarity of thought by allowing the writer to let go of their inhibitions and let the words flow freely onto the page.
 
 There are a few key ways to approach freewriting in order to reach personal clarity:

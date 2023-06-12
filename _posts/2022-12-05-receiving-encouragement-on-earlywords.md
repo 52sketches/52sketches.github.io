@@ -2,8 +2,10 @@
 layout: post
 title: Receiving Encouragement on EarlyWords
 ---
-Why did we create a forum for the users of EarlyWords?  It creates a space for you to celebrate yourself.  It also provides an opportunity to encourage others in their process. 
- 
+(Also published on the [EarlyWords blog.](https://earlywords.io/articles/receiving-encouragement-on-earlywords))
+
+Why did we create a forum for the users of EarlyWords?  It creates a space for you to celebrate yourself.  It also provides an opportunity to encourage others in their process.
+
 Receiving encouragement can help your creative process in several ways. First, it can provide a sense of validation and support. When we receive encouragement from others, it can help us to feel more confident in our abilities and more motivated to continue pursuing our creative goals. This can give us the strength and resilience to overcome challenges and to continue working on our art, even when the going gets tough.
 
 Second, receiving encouragement can help us to develop our skills and knowledge. By listening to feedback and advice from others, we can learn from their experiences and gain new insights into the creative process. This can help us to grow as artists and to improve our craft.

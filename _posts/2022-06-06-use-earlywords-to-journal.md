@@ -2,6 +2,8 @@
 layout: post
 title: Use EarlyWords to Journal!
 ---
+(Also published on the [EarlyWords blog.](https://earlywords.io/articles/use-earlywords-to-journal))
+
 Journaling is a powerful tool that can help you gain insights, explore your thoughts and emotions, and find answers to your questions. When you write to yourself, you have the opportunity to reflect on your experiences, express yourself freely, and discover new things about yourself.
 
 One of the key benefits of journaling is that it allows you to process your thoughts and emotions in a structured and organized way. By writing down your thoughts and feelings, you can better understand what you are experiencing and how it is affecting you. This can help you to identify patterns and themes in your thoughts and emotions, and gain insights into your motivations and behaviors.

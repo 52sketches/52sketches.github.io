@@ -4,6 +4,8 @@ title: Early Words Quiet the Resistance
 date: July 14, 2020
 ---
 
+(Also published on the [EarlyWords blog.](https://earlywords.io/articles/early-words-quiet-the-resistance))
+
 It was from _The War of Art_ that I learned to name the Resistance. The Resistance is a malevolent, intelligent force of nature. It stalks the artist tirelessly, an eternal being who will never give up, never falter, never slow.
 
 I recognized it. I saw the work of the Resistance in my life. I felt it. And _The War of Art_ allowed me to understand it and give it a name.

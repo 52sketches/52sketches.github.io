@@ -2,6 +2,8 @@
 layout: post
 title: Morning Pages with EarlyWords
 ---
+(Also published on the [EarlyWords blog.](https://earlywords.io/articles/morning-pages-with-earlywords))
+
 EarlyWords was designed to facilitate your morning pages. Morning pages are a practice that involves setting aside time each morning to write freely, without any particular goal or objective. This practice is often used by writers, artists, designers, and coders as a way to jumpstart their creative process and get their ideas flowing.
 
 One of the main benefits of using morning pages for writing is that they can help you to generate new ideas and inspiration. When you start your day by writing freely, without any particular goal or objective, you're more likely to tap into your unconscious mind and uncover new ideas and insights. This can be incredibly helpful for anyone looking to get their writing going, and can help to spark new ideas and inspiration for your work.

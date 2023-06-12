@@ -3,6 +3,8 @@ layout: post
 title: Using EarlyWords for NaNoWriMo?!
 ---
 
+(Also published on the [EarlyWords blog.](https://earlywords.io/articles/using-earlywords-for-nanowrimo))
+
 Nanowrimo, short for National Novel Writing Month, is a yearly event that takes place during the month of November. The goal of Nanowrimo is for participants to write a 50,000-word novel in just 30 days. This challenge is open to anyone who wants to participate, and it has become increasingly popular in recent years.  Participating in Nanowrimo can be a rewarding and challenging experience. Many participants find that the process of writing a novel in such a short amount of time is exhilarating and rewarding. It can also be a great way to meet other writers and make new friends.
 
 One of the biggest challenges of Nanowrimo is finding the time and motivation to write every day. This can be difficult for many people, especially if they have busy schedules. However, there are many resources available to help participants stay on track. The Nanowrimo website offers a variety of tools and support to help writers stay motivated and on track. These include writing prompts, virtual writing sessions, and forums where participants can connect with each other.

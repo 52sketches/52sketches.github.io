@@ -2,6 +2,8 @@
 layout: post
 title: Our EarlyWords Forum is a community specific network!
 ---
+(Also published on the [EarlyWords blog.](https://earlywords.io/articles/our-earlywords-forum-is-a-community-specific-network))
+
 EarlyWords has used Twitter as our community connecting space. Twitter is an online news and social networking site where people communicate in short messages called tweets. Tweeting is posting short messages. Another description of Twitter and tweeting might be microblogging.  We have become concerned about the safety of conducting on that site so we built an option just for us. 
 
 Community specific social networks have gained popularity in recent years as more and more people are looking for online spaces where they can connect with others who share their interests and hobbies. These networks provide a sense of belonging and connection that can be difficult to find on larger, more generalized social media platforms.

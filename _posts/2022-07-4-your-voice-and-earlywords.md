@@ -2,6 +2,8 @@
 layout: post
 title: Your Voice and EarlyWords
 ---
+(Also published on the [EarlyWords blog.](https://earlywords.io/articles/your-voice-and-earlywords))
+
 EarlyWords invites you to write to yourself once a day.  This exercise can help you resist the influence of social media and advertising. In today's world, it can be easy to get caught up in the constant stream of information and advertising that is bombarding us from all sides. Social media and advertising are designed to capture our attention and manipulate our behavior, often leading us to make choices that are not in our best interests.
 
 But by focusing on our own ideas, once a day, we can gain a greater awareness of our own thoughts, feelings, and desires. This can help us to resist the influence of social media and advertising, and instead make choices that align with our own values and goals.

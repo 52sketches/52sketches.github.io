@@ -2,6 +2,8 @@
 layout: post
 title: EarlyWords for the Classical Music Writer
 ---
+(Also published on the [EarlyWords blog.](https://earlywords.io/articles/earlywords-for-the-classical-music-writer))
+
 Journaling with [EarlyWords](https://earlywords.io/) can help with writing classical music in several ways. First, it can serve as a tool for brainstorming and generating ideas. By writing down your thoughts and feelings, you can clarify your creative vision and identify the themes and emotions that you want to explore in your music. This can help you to focus your efforts and avoid getting stuck or lost in the writing process.
 
 Second, journaling can help to develop your compositional skills. By regularly writing about your music-making process, you can track your progress and reflect on the challenges and successes that you encounter along the way. This can help you to identify areas where you need to improve and develop new strategies for overcoming obstacles.

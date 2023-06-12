@@ -2,6 +2,8 @@
 layout: post
 title: Use EarlyWords for your Morning Pages practice!
 ---
+(Also published on the [EarlyWords blog.](https://earlywords.io/articles/use-earlywords-for-your-morning-pages-practice))
+
 Morning pages are a popular writing exercise developed by Julia Cameron in her book "The Artist's Way." The practice involves writing three pages of longhand, stream-of-consciousness writing first thing in the morning. With [EarlyWords](https://earlywords.io/) this can be done through typing or using talk to text.  It is believed that this exercise can help clear the mind and get the creative juices flowing.
 
 There are a few key best practices to follow when doing your EarlyWords:

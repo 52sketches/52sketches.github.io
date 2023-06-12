@@ -4,6 +4,8 @@ title: Private Journaling in Community
 date: January 10, 2022
 ---
 
+(Also published on the [EarlyWords blog.](https://earlywords.io/articles/private-journaling-in-community))
+
 Like a lot of you, I resonate with The Artist's Way, a book by Julia Cameron. The primary practice is 'morning pages,' a private, stream-of-consciousness, write-anything-until-you've-written-three-pages approach to daily journaling. Ideally first thing in the morning.
 
 The benefits are wonderful. First, it clears that static and noise out of my head. Clarity of thought and intention require some measure of inner peace and this journaling is a way of unloading my mind. Second, writing three pages as quickly as I can teaches me that I can generate fresh content at will, that I can achieve a creative flow. Most of what I journal is garbage and rightfully so, but the practice has still taught me to get into the flow.

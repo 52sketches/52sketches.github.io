@@ -4,6 +4,8 @@ title: Happy Juneteenth!
 date: June 19, 2020
 ---
 
+(Also published on the [EarlyWords blog.](https://earlywords.io/articles/happy-juneteenth))
+
 On June 19, 1865, enslaved Americans in Galveston, Texas were first informed of the Emancipation Proclamation—the executive order that declared their freedom.
 
 A declaration is never enough. After a declaration of freedom, comes the fight to make it a reality.

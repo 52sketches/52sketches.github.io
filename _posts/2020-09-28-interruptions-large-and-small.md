@@ -4,6 +4,8 @@ title: On Interruptions Large and Small
 date: September 28, 2020
 ---
 
+(Also published on the [EarlyWords blog.](https://earlywords.io/articles/on-interruptions-large-and-small))
+
 I was perusing articles on creative habits the other day and I ran across the recommendation to put your phone into "airplane mode." This setting turns off the cellular connection, WiFi, and Bluetooth of your device, effectively shutting out the distractions of the internet, texting, and even phone calls. In the sweet absence of all that chatter, perhaps we can focus on our work.
 
 Interruptions can be very costly to creativity. I sometimes joke that creative work is best done in short bursts of ten to fourteen hours. That may not be the most sustainable approach, but the point holds—focus and flow help us do our best work.

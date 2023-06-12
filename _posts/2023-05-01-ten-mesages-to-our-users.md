@@ -2,6 +2,8 @@
 layout: post
 title: Ten Messages to Our Users
 ---
+(Also published on the [EarlyWords blog.](https://earlywords.io/articles/ten-messages-to-our-users))
+
 1. "Your art is truly unique and special. We think you have a lot of potential and should continue pursuing it."
 
 2. "We believe in your talent and know that you have the ability to create amazing things. Keep working and don't give up!"

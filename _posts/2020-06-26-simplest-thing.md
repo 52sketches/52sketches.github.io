@@ -4,6 +4,8 @@ title: What is the Simplest Thing That Could Possibly Work?
 date: June 26, 2020
 ---
 
+(Also published on the [EarlyWords blog.](https://earlywords.io/articles/what-is-the-simplest-thing-that-could-possibly-work))
+
 As the [EarlyWords](https://earlywords.io/) team, we are a pair of creative people who code. We like to think of focusing on either of these activities as cross-training. We learn a little something about coding from writing prose or music. And we learn a little something about creativity when we code.
 
 In reality, of course, there isn’t as much separation as one might think. Coding is fundamentally a ‘maker’ activity. There’s something the ‘puter doesn’t do and we make it do that.

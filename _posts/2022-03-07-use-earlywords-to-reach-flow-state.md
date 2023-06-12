@@ -2,6 +2,8 @@
 layout: post
 title: Use EarlyWords to reach Flow state!
 ---
+(Also published on the [EarlyWords blog.](https://earlywords.io/articles/use-earlywords-to-reach-flow-state))
+
 Flow State is also known as being "in the zone". Flow state a mental state in which an individual is fully immersed in an activity, to the point where they lose track of time and become completely focused. This state is often associated with increased creativity and productivity.
 
 EarlyWords can be an effective way to reach flow state. The act of writing on the platform for a sustained period of time can help engage the brain and focus the mind. By writing first thing in the morning, before the distractions of the day set in, it is easier to enter a state of flow.

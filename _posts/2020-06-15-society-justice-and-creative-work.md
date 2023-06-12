@@ -4,6 +4,8 @@ title: Society, Justice, and Creative Work
 date: June 15, 2020
 ---
 
+(Also published on the [EarlyWords blog.](https://earlywords.io/articles/society-justice-and-creative-work))
+
 Exercising our creative powers can be framed as an assertion of individuality, of personal agency, of freedom to give shape to the experience we are having as human beings.
 
 John Adams, the second President of the United States, wrote in a letter to his wife this memorable passage:
