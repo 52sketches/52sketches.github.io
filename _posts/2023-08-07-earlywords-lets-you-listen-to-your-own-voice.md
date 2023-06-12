@@ -2,6 +2,8 @@
 layout: post
 title: EarlyWords Lets You Listen to Your Own Voice
 ---
+(Originally published on the [EarlyWords blog.](https://earlywords.io/articles/earlywords-lets-you-listen-to-your-own-voice))
+
 Listening to your own voice can be a liberating experience. For many of us, our inner voices are often drowned out by the constant noise of the outside world. We may have difficulty expressing ourselves or may feel like we are not being heard. By taking the time to listen to our own voices, we can gain a greater understanding of our thoughts, feelings, and desires.
 
 One of the benefits of listening to your own voice is that it allows you to connect with your inner self. It can be easy to lose touch with who we truly are when we are constantly surrounded by other people and their opinions. But when we take the time to listen to our own voices, we can get in touch with our authentic selves and rediscover our values, beliefs, and passions.
