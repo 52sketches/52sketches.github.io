@@ -42,6 +42,21 @@ Being an artist or an otherwise creative person is a constant challenge. There a
   </a>
 </section>
 
+### Episodes
+
+1. [Voiceover Artist Kevin Genus](/podcast/2020/10/08/52-Sketches-Episode-001.html)
+1. [Actor, Singer, and Songwriter Phillip Daniel](/podcast/2020/10/15/52-Sketches-Episode-002.html)
+1. [Theatre and Cultural Producer Claudia Alick](/podcast/2020/10/22/52-Sketches-Episode-003.html)
+1. [Dance Artist Angela Todaro](/podcast/2020/10/29/52-Sketches-Episode-004.html)
+1. [Rock Musician Arden Leigh](/podcast/2020/11/05/52-Sketches-Episode-005.html)
+1. [Actor and Comic Dan White](/podcast/2020/11/12/52-Sketches-Episode-006-DanWhite.html)
+1. [The Rogue Pianist Kimberly StarKey](/podcast/2020/11/19/52-Sketches-Episode-007-KimberlyStarkey.html)
+1. [Rock Musician Armando Posada](/podcast/2020/11/26/52-Sketches-Episode-008-ArmandoPasado.html)
+1. [Cellist and Composer Daniel Sperry](/podcast/2020/12/03/52-Sketches-Episode-009-DanielSperry.html)
+1. [Milliner Sahar Freemantle](/podcast/2020/12/10/52-Sketches-Episode-010-SaharFreemantle.html)
+1. [Music Producer and Technologist Kelly Snook](/podcast/2020/12/17/52-Sketches-Episode-011-KellySnook.html)
+1. [Musician and Activist Eric Dozier](/podcast/2021/01/07/52-Sketches-Episode-012-EricDozier.html)
+
 ## EarlyWords
 
 [EarlyWords](https://earlywords.io) is a tool for daily journaling in the style of Morning Pages espoused by Julia Cameron.
